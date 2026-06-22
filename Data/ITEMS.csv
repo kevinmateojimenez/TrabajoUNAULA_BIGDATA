@@ -1,0 +1,2001 @@
+ID;Nombre;Proveedor;LeadTime;Precio
+1;Smartphone Vintage V2;Comercializadora Omega;20;723.93
+2;Mesa Advanced Negro;Global Imports Corp;5;355.01
+3;Gorra Premium Z3;Hogar y Confort Ltda.;12;13.06
+4;Termo Ergonómico Azul;Hogar y Confort Ltda.;12;25.93
+5;Televisor Advanced X1;Distribución Express;3;521.45
+6;Camiseta Eco Gold;Alimentos y Logística del Sur;15;41.24
+7;Cafetera Ultra Red;Distribución Express;3;163.36
+8;Zapatillas Premium V2;TechDistribuidora S.A.;14;55.6
+9;Mouse Advanced Azul;MegaAbasto Co.;25;64.3
+10;Mouse Plus Silver;TechDistribuidora S.A.;14;36.3
+11;Mouse Eco X1;Textiles del Norte;10;37.17
+12;Zapatillas Vintage Blanco;Comercializadora Omega;20;51.84
+13;Cargador Inalámbrico Gold;Comercializadora Omega;20;14.99
+14;Mouse Advanced X1;Suministros Industriales Alfa;7;26.52
+15;Silla Modern Gold;Hogar y Confort Ltda.;12;90.08
+16;Smartphone Pro V2;Distribución Express;3;1065.15
+17;Mochila Portátil V2;Suministros Industriales Alfa;7;34.62
+18;Chaqueta Max Gris;MegaAbasto Co.;25;176.06
+19;Termo Ergonómico Azul;Hogar y Confort Ltda.;12;18.85
+20;Camiseta Premium Blanco;Suministros Industriales Alfa;7;29.07
+21;Smartphone Ergonómico Blanco;Distribución Express;3;776.53
+22;Camiseta Eco Z3;Comercializadora Omega;20;48.38
+23;Gorra Premium Blanco;Distribución Express;3;12.53
+24;Monitor Basic Gris;MegaAbasto Co.;25;153.29
+25;Mochila Eco Blanco;Alimentos y Logística del Sur;15;33.87
+26;Auriculares Pro Blanco;Alimentos y Logística del Sur;15;87.95
+27;Cafetera Pro Blanco;Global Imports Corp;5;56.68
+28;Teclado Pro V2;Suministros Industriales Alfa;7;84.94
+29;Chaqueta Max Blanco;Hogar y Confort Ltda.;12;138.18
+30;Cafetera Advanced Azul;Textiles del Norte;10;182.12
+31;Monitor Eco V2;Global Imports Corp;5;381.39
+32;Lámpara Advanced Blanco;Suministros Industriales Alfa;7;30.76
+33;Termo Ultra V2;Distribución Express;3;30.92
+34;Laptop Basic Gold;Soluciones Tecnológicas Nova;8;1827.01
+35;Lámpara Inalámbrico Blanco;TechDistribuidora S.A.;14;70.16
+36;Mouse Plus Z3;Hogar y Confort Ltda.;12;37.42
+37;Mesa Eco Silver;Textiles del Norte;10;329.52
+38;Reloj Ergonómico Azul;Distribución Express;3;161.01
+39;Silla Modern Gold;Textiles del Norte;10;144.91
+40;Camiseta Vintage Blanco;Suministros Industriales Alfa;7;46.9
+41;Licuadora Eco Gris;Global Imports Corp;5;74.94
+42;Monitor Ergonómico Z3;Global Imports Corp;5;341.67
+43;Auriculares Inalámbrico Blanco;Comercializadora Omega;20;45.35
+44;Chaqueta Plus V2;Comercializadora Omega;20;58.22
+45;Mochila Vintage Red;Hogar y Confort Ltda.;12;60.75
+46;Teclado Modern Azul;Global Imports Corp;5;52.18
+47;Mesa Pro X1;Textiles del Norte;10;197.74
+48;Termo Ultra V2;Comercializadora Omega;20;36.81
+49;Zapatillas Portátil V2;TechDistribuidora S.A.;14;73.88
+50;Teclado Plus Red;Global Imports Corp;5;78.34
+51;Monitor Inalámbrico Silver;Alimentos y Logística del Sur;15;320.32
+52;Gorra Modern Azul;Global Imports Corp;5;16.91
+53;Termo Plus Z3;MegaAbasto Co.;25;37.83
+54;Termo Portátil Gris;MegaAbasto Co.;25;30.79
+55;Monitor Advanced Azul;Alimentos y Logística del Sur;15;185.31
+56;Chaqueta Basic Red;Hogar y Confort Ltda.;12;145.94
+57;Mouse Plus X1;TechDistribuidora S.A.;14;61.05
+58;Camiseta Eco Blanco;Textiles del Norte;10;18.89
+59;Licuadora Modern Azul;TechDistribuidora S.A.;14;76.24
+60;Cargador Vintage Z3;Hogar y Confort Ltda.;12;34.43
+61;Mochila Modern Red;Soluciones Tecnológicas Nova;8;29.96
+62;Licuadora Premium Z3;MegaAbasto Co.;25;39.3
+63;Teclado Ultra Blanco;Textiles del Norte;10;81.01
+64;Lámpara Portátil X1;Global Imports Corp;5;61.66
+65;Gorra Smart X1;Comercializadora Omega;20;27.47
+66;Lámpara Ultra Z3;Textiles del Norte;10;78.37
+67;Mochila Premium Blanco;Hogar y Confort Ltda.;12;29.75
+68;Lámpara Plus V2;Comercializadora Omega;20;60.16
+69;Reloj Pro Gris;Suministros Industriales Alfa;7;85.87
+70;Gorra Modern Red;Soluciones Tecnológicas Nova;8;17.04
+71;Silla Plus X1;TechDistribuidora S.A.;14;127.94
+72;Camiseta Portátil Red;Suministros Industriales Alfa;7;33.22
+73;Auriculares Ultra V2;Global Imports Corp;5;62.75
+74;Licuadora Basic V2;Textiles del Norte;10;69.77
+75;Mouse Modern Gris;Textiles del Norte;10;20.51
+76;Mouse Max Gris;Distribución Express;3;25.83
+77;Reloj Inalámbrico Gris;Distribución Express;3;93.59
+78;Auriculares Eco Gris;Distribución Express;3;133.31
+79;Termo Smart Silver;Alimentos y Logística del Sur;15;36.33
+80;Cafetera Eco Z3;MegaAbasto Co.;25;146.86
+81;Monitor Vintage Silver;TechDistribuidora S.A.;14;410.94
+82;Laptop Vintage Silver;Global Imports Corp;5;1574.93
+83;Cargador Eco Negro;Suministros Industriales Alfa;7;26.38
+84;Chaqueta Basic X1;TechDistribuidora S.A.;14;123.18
+85;Cargador Max V2;TechDistribuidora S.A.;14;25.48
+86;Televisor Vintage Gold;TechDistribuidora S.A.;14;421.19
+87;Gorra Ergonómico Azul;Hogar y Confort Ltda.;12;22.78
+88;Monitor Max Azul;Textiles del Norte;10;320.35
+89;Camiseta Modern X1;Suministros Industriales Alfa;7;16.55
+90;Mouse Ultra Z3;MegaAbasto Co.;25;51.94
+91;Mochila Basic Gris;Suministros Industriales Alfa;7;38.22
+92;Termo Pro Z3;Suministros Industriales Alfa;7;39.42
+93;Monitor Smart Gold;Hogar y Confort Ltda.;12;241.57
+94;Mesa Smart V2;Textiles del Norte;10;354.93
+95;Televisor Portátil Red;Hogar y Confort Ltda.;12;538.91
+96;Auriculares Max Negro;Suministros Industriales Alfa;7;33.1
+97;Chaqueta Inalámbrico X1;TechDistribuidora S.A.;14;113.89
+98;Camiseta Ergonómico V2;TechDistribuidora S.A.;14;31.76
+99;Laptop Smart Azul;Comercializadora Omega;20;1298.65
+100;Cafetera Ergonómico Gold;TechDistribuidora S.A.;14;31.77
+101;Zapatillas Pro Negro;MegaAbasto Co.;25;48.54
+102;Silla Modern Silver;Distribución Express;3;88.18
+103;Mochila Eco Blanco;Hogar y Confort Ltda.;12;25.44
+104;Monitor Plus Silver;Distribución Express;3;412.72
+105;Mochila Inalámbrico X1;Suministros Industriales Alfa;7;54.12
+106;Laptop Modern Negro;Soluciones Tecnológicas Nova;8;1983.21
+107;Licuadora Ultra Azul;TechDistribuidora S.A.;14;84.38
+108;Chaqueta Max Azul;Hogar y Confort Ltda.;12;85.9
+109;Mesa Vintage Negro;Distribución Express;3;346.15
+110;Smartphone Ultra Silver;Soluciones Tecnológicas Nova;8;865.07
+111;Laptop Premium V2;Global Imports Corp;5;1430.54
+112;Monitor Pro Gold;Distribución Express;3;224.62
+113;Silla Portátil X1;Suministros Industriales Alfa;7;225.22
+114;Reloj Inalámbrico Gold;Alimentos y Logística del Sur;15;194.85
+115;Reloj Advanced Negro;Suministros Industriales Alfa;7;187.74
+116;Televisor Pro Blanco;Global Imports Corp;5;891.52
+117;Monitor Modern Silver;Distribución Express;3;264.43
+118;Licuadora Plus Gold;Hogar y Confort Ltda.;12;83.94
+119;Gorra Modern Gris;Textiles del Norte;10;26.5
+120;Chaqueta Vintage V2;Suministros Industriales Alfa;7;60.85
+121;Cafetera Vintage Red;Comercializadora Omega;20;113.33
+122;Auriculares Premium Negro;MegaAbasto Co.;25;110.24
+123;Lámpara Ergonómico Silver;Soluciones Tecnológicas Nova;8;67.56
+124;Televisor Pro Red;Comercializadora Omega;20;694.87
+125;Monitor Smart Negro;Global Imports Corp;5;257.5
+126;Termo Portátil Red;Soluciones Tecnológicas Nova;8;22.63
+127;Laptop Ergonómico Z3;Distribución Express;3;1388.49
+128;Mesa Premium Z3;Hogar y Confort Ltda.;12;220.16
+129;Mochila Advanced Blanco;Comercializadora Omega;20;38.83
+130;Smartphone Advanced Red;MegaAbasto Co.;25;750.7
+131;Cafetera Modern Azul;Comercializadora Omega;20;180.91
+132;Lámpara Vintage Negro;Alimentos y Logística del Sur;15;77.36
+133;Smartphone Max Red;MegaAbasto Co.;25;1142.03
+134;Gorra Advanced Silver;Suministros Industriales Alfa;7;23.73
+135;Monitor Inalámbrico V2;Textiles del Norte;10;372.32
+136;Mouse Vintage Gris;Suministros Industriales Alfa;7;44.28
+137;Cafetera Ergonómico Blanco;Distribución Express;3;168.73
+138;Mesa Vintage Gris;Comercializadora Omega;20;307.95
+139;Televisor Inalámbrico V2;Hogar y Confort Ltda.;12;582.68
+140;Reloj Portátil Z3;Comercializadora Omega;20;143.14
+141;Mouse Basic Silver;Hogar y Confort Ltda.;12;63.48
+142;Mouse Eco Gris;Suministros Industriales Alfa;7;67.67
+143;Televisor Basic Z3;Textiles del Norte;10;735.64
+144;Silla Max Z3;Soluciones Tecnológicas Nova;8;127.4
+145;Mouse Premium Silver;Hogar y Confort Ltda.;12;29.67
+146;Reloj Modern Negro;Comercializadora Omega;20;129.03
+147;Mouse Inalámbrico Red;MegaAbasto Co.;25;57.24
+148;Televisor Max Gris;Alimentos y Logística del Sur;15;881.85
+149;Reloj Inalámbrico Azul;Hogar y Confort Ltda.;12;109.33
+150;Silla Eco Gold;Alimentos y Logística del Sur;15;200.66
+151;Cargador Inalámbrico Red;Hogar y Confort Ltda.;12;21.84
+152;Silla Max Silver;Comercializadora Omega;20;198.49
+153;Reloj Max Negro;MegaAbasto Co.;25;120.87
+154;Camiseta Smart Blanco;TechDistribuidora S.A.;14;25.62
+155;Teclado Ergonómico Gold;Global Imports Corp;5;26.34
+156;Lámpara Portátil Z3;MegaAbasto Co.;25;30.71
+157;Reloj Portátil V2;Textiles del Norte;10;137.45
+158;Televisor Portátil X1;Global Imports Corp;5;619.67
+159;Termo Premium V2;Distribución Express;3;27.13
+160;Monitor Inalámbrico Z3;Suministros Industriales Alfa;7;394.61
+161;Cargador Advanced Z3;TechDistribuidora S.A.;14;33.45
+162;Mesa Ergonómico Blanco;Soluciones Tecnológicas Nova;8;209.88
+163;Gorra Plus Gris;Textiles del Norte;10;27.83
+164;Cafetera Ultra Blanco;Comercializadora Omega;20;108.53
+165;Cargador Max Red;Alimentos y Logística del Sur;15;12.72
+166;Smartphone Smart Red;Suministros Industriales Alfa;7;650.9
+167;Termo Pro Silver;Textiles del Norte;10;34.27
+168;Termo Ergonómico Negro;Global Imports Corp;5;20.07
+169;Teclado Ultra Silver;Alimentos y Logística del Sur;15;75.52
+170;Termo Vintage V2;MegaAbasto Co.;25;14.35
+171;Camiseta Vintage Gris;Textiles del Norte;10;18.8
+172;Zapatillas Ultra Negro;Suministros Industriales Alfa;7;41.18
+173;Smartphone Portátil Silver;Soluciones Tecnológicas Nova;8;647.12
+174;Auriculares Advanced X1;Textiles del Norte;10;107.25
+175;Teclado Ultra Azul;Suministros Industriales Alfa;7;71.47
+176;Cafetera Ultra V2;Comercializadora Omega;20;174.14
+177;Lámpara Advanced X1;Suministros Industriales Alfa;7;54.4
+178;Mouse Premium Silver;Suministros Industriales Alfa;7;54.45
+179;Reloj Premium Silver;Distribución Express;3;56.39
+180;Mochila Premium V2;Comercializadora Omega;20;21.91
+181;Cafetera Portátil Gris;TechDistribuidora S.A.;14;32.51
+182;Cafetera Vintage Negro;Textiles del Norte;10;91.23
+183;Chaqueta Modern Azul;Hogar y Confort Ltda.;12;82.36
+184;Monitor Pro Azul;MegaAbasto Co.;25;200.75
+185;Mochila Pro Red;Soluciones Tecnológicas Nova;8;46.59
+186;Camiseta Ultra Red;Hogar y Confort Ltda.;12;39.27
+187;Chaqueta Modern X1;TechDistribuidora S.A.;14;47.35
+188;Mesa Basic Silver;Alimentos y Logística del Sur;15;247.19
+189;Silla Smart Silver;TechDistribuidora S.A.;14;112.96
+190;Termo Eco Blanco;Hogar y Confort Ltda.;12;17.22
+191;Mesa Eco Blanco;Global Imports Corp;5;167.21
+192;Termo Plus Red;Global Imports Corp;5;12.62
+193;Monitor Max V2;Global Imports Corp;5;416.12
+194;Gorra Basic Red;Alimentos y Logística del Sur;15;15.41
+195;Lámpara Basic Negro;Soluciones Tecnológicas Nova;8;23.07
+196;Mochila Modern Red;Soluciones Tecnológicas Nova;8;25.17
+197;Cargador Portátil Azul;Textiles del Norte;10;18.11
+198;Teclado Pro Z3;MegaAbasto Co.;25;31.43
+199;Mouse Max Red;Soluciones Tecnológicas Nova;8;37.7
+200;Lámpara Pro Z3;Global Imports Corp;5;44.39
+201;Camiseta Max Gris;Alimentos y Logística del Sur;15;35.65
+202;Mouse Vintage Negro;Global Imports Corp;5;11.07
+203;Gorra Portátil Z3;Distribución Express;3;18.61
+204;Cargador Ergonómico Gris;MegaAbasto Co.;25;10.66
+205;Mochila Smart Z3;Alimentos y Logística del Sur;15;28.43
+206;Licuadora Modern Blanco;Suministros Industriales Alfa;7;101.9
+207;Zapatillas Advanced Red;Suministros Industriales Alfa;7;107.22
+208;Lámpara Pro Negro;MegaAbasto Co.;25;27.77
+209;Lámpara Plus Azul;Comercializadora Omega;20;26.8
+210;Smartphone Advanced X1;MegaAbasto Co.;25;662.54
+211;Mouse Portátil Red;Suministros Industriales Alfa;7;62.24
+212;Teclado Eco Blanco;Global Imports Corp;5;57.4
+213;Laptop Premium Blanco;Soluciones Tecnológicas Nova;8;1841.75
+214;Gorra Ergonómico Silver;Textiles del Norte;10;19.71
+215;Chaqueta Vintage V2;Comercializadora Omega;20;89.94
+216;Televisor Smart X1;Distribución Express;3;298.56
+217;Smartphone Modern Negro;Global Imports Corp;5;391.4
+218;Silla Ultra X1;Global Imports Corp;5;208.05
+219;Televisor Pro X1;Alimentos y Logística del Sur;15;548.21
+220;Monitor Smart Blanco;Hogar y Confort Ltda.;12;419.54
+221;Termo Portátil Silver;Soluciones Tecnológicas Nova;8;22.42
+222;Licuadora Plus Azul;Hogar y Confort Ltda.;12;102.37
+223;Cargador Pro Blanco;Hogar y Confort Ltda.;12;19.75
+224;Teclado Eco V2;Suministros Industriales Alfa;7;17.95
+225;Chaqueta Modern V2;Suministros Industriales Alfa;7;109.89
+226;Mesa Plus Gris;Suministros Industriales Alfa;7;269.25
+227;Cargador Eco Negro;Comercializadora Omega;20;10.67
+228;Smartphone Pro Azul;Alimentos y Logística del Sur;15;979.8
+229;Mesa Ergonómico Blanco;Global Imports Corp;5;117.03
+230;Licuadora Eco V2;Hogar y Confort Ltda.;12;44.55
+231;Cargador Portátil Gris;Textiles del Norte;10;12.91
+232;Lámpara Eco Blanco;Suministros Industriales Alfa;7;53.25
+233;Silla Plus X1;Hogar y Confort Ltda.;12;248.88
+234;Monitor Plus Gris;TechDistribuidora S.A.;14;261.15
+235;Auriculares Ultra Gris;Global Imports Corp;5;85.81
+236;Cargador Smart Silver;Suministros Industriales Alfa;7;28.76
+237;Reloj Eco Azul;Suministros Industriales Alfa;7;280.74
+238;Mesa Pro X1;Suministros Industriales Alfa;7;204.93
+239;Monitor Vintage Azul;Suministros Industriales Alfa;7;248.13
+240;Cafetera Ultra Red;Comercializadora Omega;20;189.18
+241;Termo Pro V2;Comercializadora Omega;20;11.59
+242;Cafetera Pro X1;Hogar y Confort Ltda.;12;125.79
+243;Gorra Smart Red;Textiles del Norte;10;18.75
+244;Laptop Modern Z3;Distribución Express;3;1193.21
+245;Licuadora Advanced Silver;Soluciones Tecnológicas Nova;8;82.6
+246;Mouse Premium Gold;Global Imports Corp;5;41.14
+247;Cafetera Ergonómico Gris;MegaAbasto Co.;25;180.52
+248;Cafetera Plus Azul;TechDistribuidora S.A.;14;45.27
+249;Mouse Ultra Red;Hogar y Confort Ltda.;12;30.95
+250;Mouse Basic Azul;Textiles del Norte;10;55.8
+251;Cargador Max Azul;Soluciones Tecnológicas Nova;8;27.42
+252;Zapatillas Eco Silver;Textiles del Norte;10;82.17
+253;Mesa Modern Gris;Soluciones Tecnológicas Nova;8;281.79
+254;Mouse Ergonómico Azul;Textiles del Norte;10;20.94
+255;Monitor Basic Azul;TechDistribuidora S.A.;14;291.32
+256;Mochila Premium Silver;Textiles del Norte;10;31.76
+257;Silla Pro V2;Textiles del Norte;10;200.21
+258;Cafetera Eco Silver;Alimentos y Logística del Sur;15;141.01
+259;Televisor Plus Red;Distribución Express;3;862.82
+260;Teclado Basic Gris;MegaAbasto Co.;25;69.21
+261;Monitor Vintage Gold;MegaAbasto Co.;25;243.46
+262;Monitor Ergonómico Silver;Alimentos y Logística del Sur;15;235.02
+263;Teclado Plus V2;Global Imports Corp;5;84.52
+264;Reloj Pro Z3;Distribución Express;3;263.86
+265;Monitor Basic Silver;Soluciones Tecnológicas Nova;8;365.85
+266;Licuadora Advanced Silver;Distribución Express;3;94.93
+267;Reloj Premium Gris;Textiles del Norte;10;62.44
+268;Cargador Pro Red;MegaAbasto Co.;25;14.26
+269;Gorra Plus X1;Hogar y Confort Ltda.;12;12.94
+270;Termo Ultra X1;Global Imports Corp;5;19.14
+271;Mesa Premium Red;Suministros Industriales Alfa;7;392.43
+272;Reloj Plus Red;TechDistribuidora S.A.;14;63.79
+273;Mesa Smart X1;Alimentos y Logística del Sur;15;248.5
+274;Mouse Premium X1;Distribución Express;3;20.31
+275;Mochila Vintage Red;Distribución Express;3;47.71
+276;Camiseta Eco Gold;Alimentos y Logística del Sur;15;31.03
+277;Mochila Portátil Silver;Global Imports Corp;5;72.38
+278;Mouse Inalámbrico Gold;Textiles del Norte;10;39.87
+279;Auriculares Premium V2;MegaAbasto Co.;25;143.18
+280;Gorra Ergonómico V2;Hogar y Confort Ltda.;12;16.04
+281;Mesa Advanced V2;Distribución Express;3;365.8
+282;Reloj Inalámbrico Gold;Soluciones Tecnológicas Nova;8;77.64
+283;Camiseta Inalámbrico Silver;Distribución Express;3;40.44
+284;Termo Advanced Silver;Comercializadora Omega;20;19.02
+285;Mesa Inalámbrico Blanco;Hogar y Confort Ltda.;12;145.83
+286;Mouse Max Gold;MegaAbasto Co.;25;42.84
+287;Mochila Advanced Red;TechDistribuidora S.A.;14;59.38
+288;Teclado Smart Red;Alimentos y Logística del Sur;15;54.64
+289;Televisor Modern Azul;Comercializadora Omega;20;351.9
+290;Laptop Smart Negro;MegaAbasto Co.;25;1117.52
+291;Mesa Inalámbrico Gold;Distribución Express;3;174.97
+292;Gorra Vintage Blanco;Alimentos y Logística del Sur;15;17.52
+293;Licuadora Modern Negro;Soluciones Tecnológicas Nova;8;97.94
+294;Chaqueta Ergonómico Negro;Soluciones Tecnológicas Nova;8;131.81
+295;Teclado Smart X1;Comercializadora Omega;20;67.64
+296;Gorra Advanced Negro;Textiles del Norte;10;26.58
+297;Mochila Ultra Blanco;Comercializadora Omega;20;65.2
+298;Cafetera Plus Gold;Hogar y Confort Ltda.;12;51.26
+299;Cafetera Ultra Gris;Suministros Industriales Alfa;7;154.42
+300;Teclado Premium Red;Distribución Express;3;49.64
+301;Teclado Basic X1;TechDistribuidora S.A.;14;70.43
+302;Mesa Pro Z3;Distribución Express;3;250.94
+303;Chaqueta Ergonómico Blanco;TechDistribuidora S.A.;14;126.12
+304;Camiseta Inalámbrico Red;Textiles del Norte;10;42.19
+305;Smartphone Basic Red;Hogar y Confort Ltda.;12;1054.82
+306;Auriculares Advanced X1;TechDistribuidora S.A.;14;138.1
+307;Chaqueta Eco Azul;Distribución Express;3;38.17
+308;Televisor Basic Red;TechDistribuidora S.A.;14;548.23
+309;Mochila Ergonómico Silver;Distribución Express;3;79.08
+310;Silla Eco Negro;Textiles del Norte;10;124.32
+311;Mesa Ergonómico Gris;Alimentos y Logística del Sur;15;378.21
+312;Mochila Plus Silver;Suministros Industriales Alfa;7;24.49
+313;Smartphone Smart Gold;Soluciones Tecnológicas Nova;8;775.74
+314;Cafetera Advanced Gold;Hogar y Confort Ltda.;12;188.21
+315;Cargador Portátil Gris;MegaAbasto Co.;25;17.16
+316;Termo Portátil Gris;TechDistribuidora S.A.;14;36.58
+317;Mesa Ergonómico Silver;TechDistribuidora S.A.;14;323.38
+318;Mochila Pro Blanco;MegaAbasto Co.;25;36.84
+319;Smartphone Ergonómico Silver;Alimentos y Logística del Sur;15;1171.51
+320;Licuadora Ultra Blanco;Textiles del Norte;10;86.3
+321;Chaqueta Smart Gold;Suministros Industriales Alfa;7;167.37
+322;Cafetera Vintage Gold;Suministros Industriales Alfa;7;133.89
+323;Mouse Modern Red;TechDistribuidora S.A.;14;66.17
+324;Reloj Ergonómico V2;Soluciones Tecnológicas Nova;8;253.27
+325;Termo Plus Negro;TechDistribuidora S.A.;14;35.61
+326;Mouse Vintage Gris;Comercializadora Omega;20;25.98
+327;Smartphone Max Z3;Distribución Express;3;427.98
+328;Zapatillas Max Silver;Hogar y Confort Ltda.;12;139.54
+329;Zapatillas Modern Azul;Soluciones Tecnológicas Nova;8;127.83
+330;Mesa Basic X1;MegaAbasto Co.;25;160.36
+331;Termo Basic Z3;Suministros Industriales Alfa;7;11.38
+332;Auriculares Pro Negro;Alimentos y Logística del Sur;15;121.7
+333;Reloj Ultra Gold;TechDistribuidora S.A.;14;92.77
+334;Monitor Max V2;MegaAbasto Co.;25;426.67
+335;Laptop Eco Blanco;Comercializadora Omega;20;1851.48
+336;Cafetera Vintage Negro;Alimentos y Logística del Sur;15;164.09
+337;Monitor Modern Gold;Comercializadora Omega;20;186.41
+338;Televisor Smart Z3;Global Imports Corp;5;435.73
+339;Auriculares Inalámbrico Gris;Comercializadora Omega;20;75.26
+340;Mesa Pro Z3;Hogar y Confort Ltda.;12;191.3
+341;Mochila Max Blanco;Distribución Express;3;47.32
+342;Teclado Vintage Red;Soluciones Tecnológicas Nova;8;68.51
+343;Termo Vintage Z3;Textiles del Norte;10;38.79
+344;Mesa Ultra Azul;Textiles del Norte;10;356.79
+345;Zapatillas Eco Gris;Comercializadora Omega;20;82.76
+346;Chaqueta Vintage V2;Suministros Industriales Alfa;7;88.51
+347;Laptop Vintage Gold;Comercializadora Omega;20;854.51
+348;Termo Modern Red;Suministros Industriales Alfa;7;16.27
+349;Smartphone Smart Gris;TechDistribuidora S.A.;14;1056.46
+350;Cargador Ultra Z3;Alimentos y Logística del Sur;15;23.23
+351;Mesa Modern Azul;Global Imports Corp;5;347.01
+352;Silla Portátil Gold;Comercializadora Omega;20;240.01
+353;Mesa Smart Z3;Distribución Express;3;113.46
+354;Mesa Max Gris;Distribución Express;3;191.19
+355;Silla Max Silver;Suministros Industriales Alfa;7;243.54
+356;Smartphone Pro Azul;Alimentos y Logística del Sur;15;840.04
+357;Smartphone Advanced Z3;TechDistribuidora S.A.;14;1042.77
+358;Gorra Pro X1;Comercializadora Omega;20;16.59
+359;Laptop Premium Azul;Suministros Industriales Alfa;7;1067.84
+360;Smartphone Ergonómico X1;Textiles del Norte;10;876.92
+361;Televisor Modern Gold;Suministros Industriales Alfa;7;397.82
+362;Chaqueta Portátil Negro;Textiles del Norte;10;50.46
+363;Camiseta Modern Red;Hogar y Confort Ltda.;12;48.91
+364;Licuadora Ergonómico Azul;Textiles del Norte;10;100.82
+365;Zapatillas Vintage Z3;TechDistribuidora S.A.;14;131.94
+366;Zapatillas Max Azul;Hogar y Confort Ltda.;12;117.44
+367;Cafetera Ergonómico Negro;Alimentos y Logística del Sur;15;50.79
+368;Mochila Max Red;Alimentos y Logística del Sur;15;50.23
+369;Auriculares Inalámbrico Gris;TechDistribuidora S.A.;14;39.78
+370;Gorra Pro Gris;Suministros Industriales Alfa;7;25.14
+371;Zapatillas Basic Azul;Suministros Industriales Alfa;7;58.9
+372;Cargador Max Red;Hogar y Confort Ltda.;12;27.5
+373;Gorra Advanced Z3;Soluciones Tecnológicas Nova;8;13.61
+374;Licuadora Premium Negro;Alimentos y Logística del Sur;15;66.88
+375;Lámpara Basic Red;Textiles del Norte;10;63.66
+376;Cafetera Eco Blanco;TechDistribuidora S.A.;14;99.55
+377;Laptop Inalámbrico Gold;Hogar y Confort Ltda.;12;739.57
+378;Camiseta Smart Gris;Alimentos y Logística del Sur;15;25.37
+379;Reloj Plus V2;Hogar y Confort Ltda.;12;188.34
+380;Chaqueta Plus X1;Comercializadora Omega;20;109.57
+381;Zapatillas Max Blanco;Comercializadora Omega;20;69.51
+382;Silla Advanced Z3;MegaAbasto Co.;25;215.68
+383;Teclado Modern X1;TechDistribuidora S.A.;14;28.91
+384;Mouse Premium Silver;Global Imports Corp;5;47.68
+385;Televisor Basic V2;Global Imports Corp;5;723.8
+386;Mesa Inalámbrico Gris;Alimentos y Logística del Sur;15;392.19
+387;Monitor Basic V2;Global Imports Corp;5;441.54
+388;Auriculares Ergonómico X1;Suministros Industriales Alfa;7;114.77
+389;Auriculares Pro Red;Soluciones Tecnológicas Nova;8;21.81
+390;Zapatillas Basic X1;TechDistribuidora S.A.;14;114.86
+391;Mesa Premium Z3;Comercializadora Omega;20;268.11
+392;Mouse Portátil Negro;TechDistribuidora S.A.;14;17.09
+393;Televisor Inalámbrico V2;Hogar y Confort Ltda.;12;721.3
+394;Reloj Pro Azul;Soluciones Tecnológicas Nova;8;125.89
+395;Laptop Basic Negro;Hogar y Confort Ltda.;12;1978.74
+396;Televisor Plus Negro;Global Imports Corp;5;770.81
+397;Cargador Pro X1;Comercializadora Omega;20;31.52
+398;Mesa Eco V2;TechDistribuidora S.A.;14;282.71
+399;Gorra Ultra Gold;MegaAbasto Co.;25;17.35
+400;Televisor Ultra Blanco;Soluciones Tecnológicas Nova;8;296.77
+401;Licuadora Modern Blanco;Global Imports Corp;5;112.01
+402;Zapatillas Portátil X1;Suministros Industriales Alfa;7;104.49
+403;Reloj Plus Gris;Soluciones Tecnológicas Nova;8;241.36
+404;Laptop Premium X1;Soluciones Tecnológicas Nova;8;1416.99
+405;Smartphone Ergonómico Blanco;Soluciones Tecnológicas Nova;8;1088.44
+406;Auriculares Ultra Gold;MegaAbasto Co.;25;140.31
+407;Mesa Max Red;Hogar y Confort Ltda.;12;179.91
+408;Licuadora Advanced Negro;Textiles del Norte;10;107.26
+409;Teclado Portátil Z3;Distribución Express;3;85.12
+410;Chaqueta Plus Negro;Alimentos y Logística del Sur;15;124.26
+411;Lámpara Premium V2;Comercializadora Omega;20;51.94
+412;Cargador Eco X1;MegaAbasto Co.;25;24.97
+413;Televisor Portátil Silver;Textiles del Norte;10;284.78
+414;Cafetera Plus Azul;Alimentos y Logística del Sur;15;183.36
+415;Reloj Smart Gold;Textiles del Norte;10;54.92
+416;Lámpara Ultra V2;Hogar y Confort Ltda.;12;76.87
+417;Cargador Basic Gold;Suministros Industriales Alfa;7;34.91
+418;Lámpara Ultra Gold;Hogar y Confort Ltda.;12;72.1
+419;Termo Modern V2;Global Imports Corp;5;25.03
+420;Licuadora Portátil Blanco;Suministros Industriales Alfa;7;57.43
+421;Televisor Premium Azul;Alimentos y Logística del Sur;15;392.67
+422;Smartphone Inalámbrico X1;Distribución Express;3;825.63
+423;Gorra Portátil Z3;Distribución Express;3;23.6
+424;Mochila Portátil Z3;TechDistribuidora S.A.;14;78.39
+425;Camiseta Inalámbrico Gris;Distribución Express;3;20.65
+426;Auriculares Plus Silver;Suministros Industriales Alfa;7;50.93
+427;Lámpara Eco Gris;TechDistribuidora S.A.;14;53.57
+428;Mesa Inalámbrico X1;Suministros Industriales Alfa;7;373.93
+429;Monitor Vintage Blanco;Distribución Express;3;171.86
+430;Televisor Premium Red;Distribución Express;3;350.72
+431;Auriculares Smart Z3;Global Imports Corp;5;21.6
+432;Silla Portátil Gris;Distribución Express;3;197.25
+433;Zapatillas Modern Negro;Textiles del Norte;10;116.48
+434;Termo Eco Gris;Textiles del Norte;10;24.31
+435;Teclado Premium Negro;Hogar y Confort Ltda.;12;43.43
+436;Lámpara Premium Gold;Distribución Express;3;29.65
+437;Cafetera Smart Negro;Soluciones Tecnológicas Nova;8;179.86
+438;Laptop Modern Red;Soluciones Tecnológicas Nova;8;695.39
+439;Gorra Plus Silver;Alimentos y Logística del Sur;15;13.0
+440;Mochila Vintage Azul;Global Imports Corp;5;65.72
+441;Televisor Premium Blanco;MegaAbasto Co.;25;870.22
+442;Televisor Ergonómico Negro;Comercializadora Omega;20;325.25
+443;Camiseta Vintage Gold;Alimentos y Logística del Sur;15;18.82
+444;Licuadora Plus Silver;Suministros Industriales Alfa;7;41.47
+445;Teclado Inalámbrico X1;Suministros Industriales Alfa;7;16.25
+446;Mouse Vintage Blanco;Soluciones Tecnológicas Nova;8;34.87
+447;Reloj Premium Z3;MegaAbasto Co.;25;283.16
+448;Licuadora Plus Z3;Alimentos y Logística del Sur;15;49.94
+449;Mochila Ultra V2;Alimentos y Logística del Sur;15;47.92
+450;Termo Inalámbrico X1;Alimentos y Logística del Sur;15;27.34
+451;Camiseta Portátil Blanco;Alimentos y Logística del Sur;15;19.76
+452;Monitor Smart Red;Comercializadora Omega;20;407.74
+453;Cafetera Inalámbrico Gold;Suministros Industriales Alfa;7;40.51
+454;Silla Basic Gold;Global Imports Corp;5;109.57
+455;Mochila Vintage Blanco;Alimentos y Logística del Sur;15;45.57
+456;Televisor Basic Azul;Global Imports Corp;5;495.65
+457;Teclado Ergonómico X1;Global Imports Corp;5;64.05
+458;Teclado Ergonómico Azul;Soluciones Tecnológicas Nova;8;86.26
+459;Mouse Pro X1;MegaAbasto Co.;25;24.71
+460;Chaqueta Pro Azul;Distribución Express;3;38.09
+461;Lámpara Portátil Negro;Comercializadora Omega;20;22.2
+462;Mesa Modern Negro;Alimentos y Logística del Sur;15;333.16
+463;Auriculares Plus Z3;Soluciones Tecnológicas Nova;8;146.8
+464;Televisor Portátil V2;Alimentos y Logística del Sur;15;473.01
+465;Teclado Smart Red;Comercializadora Omega;20;62.78
+466;Licuadora Portátil Negro;TechDistribuidora S.A.;14;110.77
+467;Mouse Smart Azul;Alimentos y Logística del Sur;15;54.05
+468;Licuadora Vintage Silver;MegaAbasto Co.;25;36.12
+469;Cargador Pro Azul;TechDistribuidora S.A.;14;23.34
+470;Gorra Max Negro;Global Imports Corp;5;25.39
+471;Zapatillas Portátil X1;Global Imports Corp;5;132.92
+472;Camiseta Max Silver;Alimentos y Logística del Sur;15;19.65
+473;Zapatillas Advanced Negro;Distribución Express;3;57.44
+474;Termo Ergonómico Z3;Global Imports Corp;5;28.6
+475;Gorra Ergonómico Gris;MegaAbasto Co.;25;23.72
+476;Camiseta Ultra Gold;Global Imports Corp;5;40.65
+477;Termo Basic Gris;MegaAbasto Co.;25;13.75
+478;Chaqueta Eco X1;TechDistribuidora S.A.;14;138.43
+479;Lámpara Eco Negro;Distribución Express;3;41.08
+480;Laptop Premium Silver;Distribución Express;3;1077.29
+481;Televisor Vintage Blanco;Textiles del Norte;10;701.46
+482;Cafetera Plus Gris;Distribución Express;3;119.39
+483;Laptop Basic Gold;MegaAbasto Co.;25;922.04
+484;Cafetera Smart Negro;Hogar y Confort Ltda.;12;38.9
+485;Chaqueta Ultra V2;Distribución Express;3;156.36
+486;Licuadora Portátil Negro;MegaAbasto Co.;25;114.04
+487;Lámpara Smart Gris;Hogar y Confort Ltda.;12;54.8
+488;Televisor Plus Gold;Comercializadora Omega;20;721.32
+489;Zapatillas Eco Silver;Soluciones Tecnológicas Nova;8;56.3
+490;Auriculares Modern Gris;Textiles del Norte;10;117.53
+491;Camiseta Ergonómico Azul;Suministros Industriales Alfa;7;16.9
+492;Cargador Inalámbrico Gris;Suministros Industriales Alfa;7;18.53
+493;Televisor Max Blanco;TechDistribuidora S.A.;14;822.5
+494;Monitor Basic Negro;Suministros Industriales Alfa;7;241.56
+495;Zapatillas Ultra Silver;MegaAbasto Co.;25;44.26
+496;Mouse Advanced X1;Global Imports Corp;5;63.82
+497;Zapatillas Ultra Gold;Soluciones Tecnológicas Nova;8;116.58
+498;Lámpara Eco V2;Suministros Industriales Alfa;7;55.83
+499;Licuadora Premium Z3;Global Imports Corp;5;47.56
+500;Teclado Vintage Silver;Soluciones Tecnológicas Nova;8;50.45
+501;Mouse Inalámbrico Negro;MegaAbasto Co.;25;49.98
+502;Camiseta Vintage Negro;Alimentos y Logística del Sur;15;27.5
+503;Silla Portátil Gris;Hogar y Confort Ltda.;12;187.66
+504;Lámpara Plus Gold;Alimentos y Logística del Sur;15;64.92
+505;Laptop Vintage Gold;Alimentos y Logística del Sur;15;1871.83
+506;Licuadora Advanced Z3;Comercializadora Omega;20;34.77
+507;Termo Vintage V2;Alimentos y Logística del Sur;15;33.43
+508;Monitor Smart Red;TechDistribuidora S.A.;14;269.77
+509;Cafetera Plus Blanco;Suministros Industriales Alfa;7;146.5
+510;Auriculares Plus Silver;Global Imports Corp;5;39.17
+511;Reloj Portátil Red;Alimentos y Logística del Sur;15;220.17
+512;Termo Eco Red;Textiles del Norte;10;14.73
+513;Monitor Eco Z3;Textiles del Norte;10;236.88
+514;Chaqueta Eco X1;MegaAbasto Co.;25;46.59
+515;Silla Pro Gris;Global Imports Corp;5;216.78
+516;Gorra Basic Silver;Distribución Express;3;18.31
+517;Silla Max Gris;Suministros Industriales Alfa;7;92.09
+518;Auriculares Advanced Blanco;Soluciones Tecnológicas Nova;8;108.01
+519;Licuadora Basic Gris;Hogar y Confort Ltda.;12;110.34
+520;Mochila Smart Z3;Soluciones Tecnológicas Nova;8;32.26
+521;Silla Vintage Blanco;Distribución Express;3;213.44
+522;Mesa Vintage Negro;MegaAbasto Co.;25;250.36
+523;Laptop Pro Negro;MegaAbasto Co.;25;1887.97
+524;Monitor Modern Gris;Alimentos y Logística del Sur;15;312.36
+525;Licuadora Modern Red;MegaAbasto Co.;25;108.57
+526;Licuadora Inalámbrico Azul;Soluciones Tecnológicas Nova;8;80.09
+527;Silla Ergonómico Negro;Comercializadora Omega;20;197.72
+528;Lámpara Pro V2;Textiles del Norte;10;40.3
+529;Teclado Eco Azul;Alimentos y Logística del Sur;15;21.63
+530;Auriculares Smart Red;TechDistribuidora S.A.;14;57.63
+531;Termo Basic Silver;MegaAbasto Co.;25;26.33
+532;Gorra Smart Silver;MegaAbasto Co.;25;26.84
+533;Mesa Advanced Blanco;Hogar y Confort Ltda.;12;357.37
+534;Cargador Basic Z3;Comercializadora Omega;20;30.12
+535;Mesa Portátil Red;TechDistribuidora S.A.;14;269.35
+536;Mesa Advanced Silver;Distribución Express;3;340.91
+537;Mouse Pro Gris;Alimentos y Logística del Sur;15;11.53
+538;Cafetera Advanced Red;TechDistribuidora S.A.;14;94.85
+539;Silla Smart Z3;TechDistribuidora S.A.;14;84.96
+540;Mochila Portátil Negro;Alimentos y Logística del Sur;15;76.53
+541;Reloj Advanced V2;Comercializadora Omega;20;149.96
+542;Televisor Eco Azul;Textiles del Norte;10;484.17
+543;Licuadora Premium Negro;Comercializadora Omega;20;48.48
+544;Termo Ergonómico Negro;Textiles del Norte;10;15.15
+545;Gorra Inalámbrico Blanco;Global Imports Corp;5;21.5
+546;Laptop Max Red;TechDistribuidora S.A.;14;1186.95
+547;Auriculares Basic Azul;Soluciones Tecnológicas Nova;8;71.5
+548;Mochila Eco Gold;Textiles del Norte;10;62.94
+549;Mochila Vintage Gris;TechDistribuidora S.A.;14;46.82
+550;Teclado Max Z3;TechDistribuidora S.A.;14;64.23
+551;Licuadora Portátil Gold;TechDistribuidora S.A.;14;113.16
+552;Televisor Smart Red;Soluciones Tecnológicas Nova;8;819.61
+553;Mouse Basic V2;Textiles del Norte;10;68.22
+554;Laptop Smart Blanco;TechDistribuidora S.A.;14;988.4
+555;Teclado Advanced Negro;Comercializadora Omega;20;70.68
+556;Mouse Advanced X1;Soluciones Tecnológicas Nova;8;18.31
+557;Laptop Max Azul;Alimentos y Logística del Sur;15;1106.83
+558;Smartphone Vintage Negro;Alimentos y Logística del Sur;15;1130.6
+559;Camiseta Ergonómico Negro;Hogar y Confort Ltda.;12;21.51
+560;Chaqueta Ergonómico Gris;Comercializadora Omega;20;140.11
+561;Monitor Ergonómico Gris;Alimentos y Logística del Sur;15;163.9
+562;Laptop Portátil Gris;Alimentos y Logística del Sur;15;1155.13
+563;Lámpara Advanced Silver;Global Imports Corp;5;36.92
+564;Lámpara Vintage Silver;Alimentos y Logística del Sur;15;20.35
+565;Smartphone Ergonómico Gris;Global Imports Corp;5;926.7
+566;Cargador Basic Red;MegaAbasto Co.;25;17.63
+567;Camiseta Premium Blanco;Distribución Express;3;27.77
+568;Chaqueta Ultra Z3;Textiles del Norte;10;156.04
+569;Mesa Max Silver;MegaAbasto Co.;25;151.93
+570;Zapatillas Inalámbrico V2;Suministros Industriales Alfa;7;100.41
+571;Reloj Smart X1;Comercializadora Omega;20;211.1
+572;Licuadora Smart Z3;Global Imports Corp;5;109.63
+573;Gorra Plus Red;Alimentos y Logística del Sur;15;27.47
+574;Lámpara Max Z3;Alimentos y Logística del Sur;15;59.35
+575;Termo Premium V2;Hogar y Confort Ltda.;12;22.11
+576;Smartphone Inalámbrico V2;Textiles del Norte;10;899.52
+577;Cafetera Modern Red;Hogar y Confort Ltda.;12;141.04
+578;Licuadora Ergonómico Negro;Soluciones Tecnológicas Nova;8;80.31
+579;Chaqueta Smart Azul;Suministros Industriales Alfa;7;38.8
+580;Chaqueta Modern Azul;Suministros Industriales Alfa;7;39.78
+581;Reloj Vintage Z3;Soluciones Tecnológicas Nova;8;209.44
+582;Gorra Plus Negro;TechDistribuidora S.A.;14;13.79
+583;Cafetera Portátil Gold;Alimentos y Logística del Sur;15;158.43
+584;Lámpara Pro Gold;TechDistribuidora S.A.;14;34.82
+585;Mochila Smart Gris;Soluciones Tecnológicas Nova;8;66.11
+586;Licuadora Basic Z3;Alimentos y Logística del Sur;15;118.68
+587;Cafetera Advanced Gris;TechDistribuidora S.A.;14;100.31
+588;Gorra Basic Azul;Comercializadora Omega;20;27.84
+589;Teclado Max Gris;TechDistribuidora S.A.;14;66.37
+590;Auriculares Ultra Red;Hogar y Confort Ltda.;12;143.09
+591;Monitor Inalámbrico X1;Suministros Industriales Alfa;7;247.47
+592;Chaqueta Ultra Z3;Hogar y Confort Ltda.;12;49.32
+593;Auriculares Eco Gris;MegaAbasto Co.;25;63.67
+594;Cafetera Max Gold;Textiles del Norte;10;186.8
+595;Lámpara Smart Azul;Textiles del Norte;10;22.8
+596;Camiseta Eco Negro;TechDistribuidora S.A.;14;28.47
+597;Zapatillas Inalámbrico Azul;Soluciones Tecnológicas Nova;8;125.05
+598;Chaqueta Portátil Gold;Global Imports Corp;5;47.42
+599;Silla Max Z3;TechDistribuidora S.A.;14;248.32
+600;Mouse Modern Gold;Distribución Express;3;25.05
+601;Monitor Pro X1;MegaAbasto Co.;25;250.59
+602;Cargador Inalámbrico Red;Hogar y Confort Ltda.;12;29.91
+603;Laptop Plus X1;Hogar y Confort Ltda.;12;1749.08
+604;Reloj Modern X1;Soluciones Tecnológicas Nova;8;279.85
+605;Cargador Max Gold;MegaAbasto Co.;25;17.15
+606;Cafetera Inalámbrico Negro;Alimentos y Logística del Sur;15;106.24
+607;Laptop Eco Blanco;Comercializadora Omega;20;756.75
+608;Gorra Portátil Negro;Hogar y Confort Ltda.;12;29.58
+609;Silla Ultra V2;Textiles del Norte;10;108.46
+610;Smartphone Basic X1;Hogar y Confort Ltda.;12;428.6
+611;Silla Ergonómico Negro;Distribución Express;3;108.83
+612;Televisor Ultra Z3;Hogar y Confort Ltda.;12;732.92
+613;Silla Smart V2;Suministros Industriales Alfa;7;112.86
+614;Smartphone Eco X1;Soluciones Tecnológicas Nova;8;900.86
+615;Mochila Basic V2;Distribución Express;3;67.66
+616;Mochila Portátil V2;Soluciones Tecnológicas Nova;8;57.05
+617;Laptop Inalámbrico Silver;MegaAbasto Co.;25;937.91
+618;Teclado Advanced Gold;TechDistribuidora S.A.;14;32.62
+619;Licuadora Max Azul;Textiles del Norte;10;117.98
+620;Smartphone Inalámbrico Azul;Global Imports Corp;5;728.63
+621;Auriculares Ergonómico Silver;Alimentos y Logística del Sur;15;35.66
+622;Monitor Vintage Negro;Global Imports Corp;5;235.43
+623;Termo Smart Negro;MegaAbasto Co.;25;16.2
+624;Zapatillas Ultra Z3;Global Imports Corp;5;64.22
+625;Teclado Premium Silver;Hogar y Confort Ltda.;12;43.11
+626;Mochila Plus Z3;Alimentos y Logística del Sur;15;70.2
+627;Reloj Smart Red;Global Imports Corp;5;221.36
+628;Teclado Inalámbrico Blanco;Distribución Express;3;86.38
+629;Televisor Plus X1;TechDistribuidora S.A.;14;326.36
+630;Smartphone Ultra Gold;Hogar y Confort Ltda.;12;1124.76
+631;Teclado Inalámbrico Gold;Suministros Industriales Alfa;7;25.23
+632;Camiseta Modern Negro;Global Imports Corp;5;34.91
+633;Zapatillas Premium Azul;Distribución Express;3;83.56
+634;Reloj Basic Gold;TechDistribuidora S.A.;14;220.85
+635;Televisor Modern Z3;Global Imports Corp;5;423.21
+636;Lámpara Plus Silver;MegaAbasto Co.;25;56.06
+637;Auriculares Ergonómico Z3;Comercializadora Omega;20;93.89
+638;Chaqueta Inalámbrico Z3;MegaAbasto Co.;25;142.11
+639;Gorra Inalámbrico Gold;Distribución Express;3;12.72
+640;Zapatillas Inalámbrico X1;Hogar y Confort Ltda.;12;94.07
+641;Mochila Modern V2;Comercializadora Omega;20;67.61
+642;Auriculares Plus X1;Suministros Industriales Alfa;7;59.36
+643;Termo Basic Silver;TechDistribuidora S.A.;14;17.85
+644;Zapatillas Plus Negro;MegaAbasto Co.;25;80.76
+645;Televisor Advanced Z3;Distribución Express;3;842.84
+646;Termo Ultra X1;Global Imports Corp;5;28.66
+647;Smartphone Ergonómico Azul;TechDistribuidora S.A.;14;1082.53
+648;Cafetera Eco Z3;Global Imports Corp;5;142.05
+649;Auriculares Advanced Silver;Alimentos y Logística del Sur;15;79.15
+650;Mouse Eco Silver;Soluciones Tecnológicas Nova;8;61.43
+651;Monitor Modern Red;Global Imports Corp;5;413.75
+652;Mochila Ergonómico Red;Global Imports Corp;5;26.53
+653;Mesa Modern Azul;Comercializadora Omega;20;388.33
+654;Termo Premium Negro;Alimentos y Logística del Sur;15;34.8
+655;Reloj Modern V2;Comercializadora Omega;20;115.19
+656;Teclado Portátil Blanco;TechDistribuidora S.A.;14;38.86
+657;Chaqueta Ergonómico V2;Comercializadora Omega;20;45.85
+658;Camiseta Vintage Gold;Alimentos y Logística del Sur;15;37.17
+659;Cargador Vintage Negro;Soluciones Tecnológicas Nova;8;29.81
+660;Mesa Ergonómico Negro;Distribución Express;3;221.34
+661;Zapatillas Basic Gris;Suministros Industriales Alfa;7;85.89
+662;Lámpara Pro Azul;Suministros Industriales Alfa;7;25.65
+663;Monitor Ergonómico V2;Global Imports Corp;5;178.09
+664;Reloj Plus Gold;Hogar y Confort Ltda.;12;137.89
+665;Termo Inalámbrico X1;Textiles del Norte;10;11.43
+666;Licuadora Ultra Silver;Comercializadora Omega;20;110.68
+667;Cafetera Smart X1;Distribución Express;3;45.24
+668;Zapatillas Inalámbrico Negro;Suministros Industriales Alfa;7;122.68
+669;Smartphone Modern Gris;TechDistribuidora S.A.;14;1173.74
+670;Licuadora Ultra V2;Suministros Industriales Alfa;7;65.67
+671;Smartphone Ultra Negro;Distribución Express;3;909.7
+672;Teclado Basic V2;Suministros Industriales Alfa;7;33.09
+673;Mesa Smart V2;Global Imports Corp;5;146.54
+674;Mochila Smart Azul;Textiles del Norte;10;21.78
+675;Televisor Vintage Gold;Alimentos y Logística del Sur;15;744.5
+676;Lámpara Eco Blanco;Textiles del Norte;10;25.49
+677;Silla Portátil Red;Distribución Express;3;185.33
+678;Termo Basic Gold;Suministros Industriales Alfa;7;37.46
+679;Zapatillas Smart Blanco;Hogar y Confort Ltda.;12;87.46
+680;Mesa Pro Negro;Suministros Industriales Alfa;7;265.33
+681;Cargador Vintage V2;Distribución Express;3;30.16
+682;Laptop Smart V2;Suministros Industriales Alfa;7;1309.37
+683;Zapatillas Inalámbrico X1;TechDistribuidora S.A.;14;71.12
+684;Lámpara Portátil Negro;Global Imports Corp;5;44.32
+685;Mouse Ultra Z3;Suministros Industriales Alfa;7;46.89
+686;Cargador Pro V2;Suministros Industriales Alfa;7;22.22
+687;Mouse Ergonómico V2;Suministros Industriales Alfa;7;31.25
+688;Reloj Advanced Blanco;Alimentos y Logística del Sur;15;225.79
+689;Termo Ultra Negro;Textiles del Norte;10;30.49
+690;Teclado Portátil X1;Alimentos y Logística del Sur;15;22.1
+691;Lámpara Modern X1;Global Imports Corp;5;75.87
+692;Mochila Smart Gold;Textiles del Norte;10;71.31
+693;Mesa Pro Negro;Comercializadora Omega;20;277.55
+694;Silla Pro Negro;TechDistribuidora S.A.;14;86.17
+695;Reloj Ultra Azul;MegaAbasto Co.;25;244.18
+696;Monitor Pro Gold;Global Imports Corp;5;222.84
+697;Auriculares Modern X1;Hogar y Confort Ltda.;12;103.0
+698;Mochila Pro V2;Alimentos y Logística del Sur;15;64.35
+699;Mochila Ultra Azul;Hogar y Confort Ltda.;12;38.51
+700;Auriculares Basic Gris;MegaAbasto Co.;25;129.02
+701;Cargador Smart Negro;Suministros Industriales Alfa;7;26.58
+702;Monitor Ergonómico V2;Hogar y Confort Ltda.;12;145.06
+703;Auriculares Smart Red;Suministros Industriales Alfa;7;131.84
+704;Silla Basic Red;Distribución Express;3;72.87
+705;Chaqueta Max Silver;Global Imports Corp;5;110.19
+706;Mesa Inalámbrico X1;MegaAbasto Co.;25;105.01
+707;Gorra Smart Silver;MegaAbasto Co.;25;12.87
+708;Cargador Eco V2;Hogar y Confort Ltda.;12;19.18
+709;Mesa Advanced Gold;Comercializadora Omega;20;191.44
+710;Termo Smart Red;Comercializadora Omega;20;39.72
+711;Chaqueta Eco Z3;Suministros Industriales Alfa;7;103.15
+712;Mesa Portátil Gris;Hogar y Confort Ltda.;12;126.73
+713;Laptop Advanced V2;Global Imports Corp;5;1344.88
+714;Zapatillas Pro Red;MegaAbasto Co.;25;107.88
+715;Zapatillas Eco Silver;Distribución Express;3;56.81
+716;Reloj Advanced X1;Comercializadora Omega;20;94.09
+717;Zapatillas Modern Silver;Comercializadora Omega;20;76.84
+718;Smartphone Advanced Azul;Comercializadora Omega;20;674.88
+719;Mouse Max Z3;Distribución Express;3;33.99
+720;Chaqueta Inalámbrico Red;Hogar y Confort Ltda.;12;146.41
+721;Mesa Modern Z3;Distribución Express;3;357.12
+722;Gorra Eco Z3;Global Imports Corp;5;25.59
+723;Camiseta Portátil Azul;Distribución Express;3;22.99
+724;Gorra Plus V2;TechDistribuidora S.A.;14;12.5
+725;Cafetera Eco Gold;Comercializadora Omega;20;48.37
+726;Chaqueta Basic Silver;Alimentos y Logística del Sur;15;149.52
+727;Mochila Premium Red;Comercializadora Omega;20;59.16
+728;Termo Vintage Negro;Suministros Industriales Alfa;7;39.23
+729;Televisor Vintage V2;Comercializadora Omega;20;344.38
+730;Mochila Ergonómico Negro;Soluciones Tecnológicas Nova;8;33.29
+731;Termo Ergonómico Z3;Alimentos y Logística del Sur;15;14.37
+732;Mesa Basic X1;Alimentos y Logística del Sur;15;387.13
+733;Monitor Premium Silver;Suministros Industriales Alfa;7;212.84
+734;Cargador Pro X1;Distribución Express;3;28.57
+735;Teclado Plus Red;Global Imports Corp;5;35.5
+736;Auriculares Vintage Z3;MegaAbasto Co.;25;136.42
+737;Laptop Eco Blanco;MegaAbasto Co.;25;1121.31
+738;Televisor Modern X1;Textiles del Norte;10;440.34
+739;Mochila Advanced X1;TechDistribuidora S.A.;14;34.15
+740;Silla Vintage Blanco;MegaAbasto Co.;25;130.23
+741;Silla Basic X1;Alimentos y Logística del Sur;15;227.33
+742;Televisor Inalámbrico Negro;Textiles del Norte;10;762.44
+743;Televisor Vintage X1;Textiles del Norte;10;393.72
+744;Mouse Portátil Blanco;Textiles del Norte;10;38.34
+745;Lámpara Plus Red;Hogar y Confort Ltda.;12;15.51
+746;Mouse Basic Blanco;TechDistribuidora S.A.;14;42.12
+747;Termo Ultra Blanco;Textiles del Norte;10;33.6
+748;Reloj Ultra Negro;Comercializadora Omega;20;212.44
+749;Mouse Inalámbrico Silver;Suministros Industriales Alfa;7;64.85
+750;Gorra Ergonómico Gris;Comercializadora Omega;20;20.15
+751;Cargador Portátil Gris;Comercializadora Omega;20;25.19
+752;Chaqueta Max V2;Suministros Industriales Alfa;7;124.16
+753;Televisor Premium Silver;Hogar y Confort Ltda.;12;377.73
+754;Laptop Modern X1;Alimentos y Logística del Sur;15;1981.64
+755;Camiseta Inalámbrico Z3;Comercializadora Omega;20;45.13
+756;Licuadora Portátil Blanco;Comercializadora Omega;20;118.41
+757;Chaqueta Premium Red;Soluciones Tecnológicas Nova;8;167.84
+758;Televisor Basic Gold;MegaAbasto Co.;25;389.91
+759;Chaqueta Eco Z3;Hogar y Confort Ltda.;12;64.02
+760;Cafetera Eco Gold;MegaAbasto Co.;25;77.15
+761;Laptop Smart Negro;Comercializadora Omega;20;999.34
+762;Mouse Ultra Negro;Suministros Industriales Alfa;7;65.01
+763;Camiseta Ultra Silver;Global Imports Corp;5;21.27
+764;Cargador Portátil Blanco;TechDistribuidora S.A.;14;30.72
+765;Laptop Advanced Blanco;Distribución Express;3;1459.39
+766;Gorra Plus Silver;Textiles del Norte;10;20.08
+767;Termo Vintage Azul;MegaAbasto Co.;25;30.55
+768;Laptop Basic Z3;Comercializadora Omega;20;1390.55
+769;Camiseta Premium Red;Textiles del Norte;10;40.02
+770;Mochila Modern Z3;Alimentos y Logística del Sur;15;79.87
+771;Smartphone Premium Azul;Comercializadora Omega;20;629.64
+772;Monitor Inalámbrico Blanco;Hogar y Confort Ltda.;12;211.88
+773;Termo Basic Negro;Comercializadora Omega;20;28.71
+774;Monitor Eco Azul;Comercializadora Omega;20;364.07
+775;Laptop Ergonómico Z3;Suministros Industriales Alfa;7;606.15
+776;Auriculares Smart Blanco;Distribución Express;3;30.92
+777;Smartphone Advanced Blanco;Global Imports Corp;5;716.98
+778;Teclado Vintage Red;Soluciones Tecnológicas Nova;8;76.35
+779;Lámpara Eco V2;MegaAbasto Co.;25;61.16
+780;Cafetera Pro Red;Alimentos y Logística del Sur;15;112.41
+781;Mouse Premium Azul;Global Imports Corp;5;62.93
+782;Mouse Plus Silver;Global Imports Corp;5;69.51
+783;Lámpara Ultra X1;Hogar y Confort Ltda.;12;75.71
+784;Monitor Modern V2;Hogar y Confort Ltda.;12;186.37
+785;Mesa Eco Silver;Global Imports Corp;5;104.1
+786;Smartphone Advanced Red;TechDistribuidora S.A.;14;784.06
+787;Laptop Plus Z3;TechDistribuidora S.A.;14;830.85
+788;Gorra Max X1;Hogar y Confort Ltda.;12;26.38
+789;Smartphone Premium X1;Global Imports Corp;5;933.18
+790;Cargador Ultra Red;MegaAbasto Co.;25;27.93
+791;Reloj Ergonómico Negro;Global Imports Corp;5;216.25
+792;Chaqueta Advanced Blanco;Suministros Industriales Alfa;7;96.27
+793;Lámpara Advanced Gold;MegaAbasto Co.;25;25.0
+794;Auriculares Ergonómico Negro;Global Imports Corp;5;36.07
+795;Gorra Portátil Z3;TechDistribuidora S.A.;14;20.1
+796;Teclado Max Silver;Hogar y Confort Ltda.;12;35.25
+797;Lámpara Max Negro;Hogar y Confort Ltda.;12;73.56
+798;Reloj Ergonómico Silver;Soluciones Tecnológicas Nova;8;228.0
+799;Auriculares Eco Red;MegaAbasto Co.;25;107.5
+800;Lámpara Ultra Gold;Distribución Express;3;66.81
+801;Cargador Portátil Blanco;Soluciones Tecnológicas Nova;8;14.13
+802;Camiseta Modern Silver;MegaAbasto Co.;25;48.87
+803;Teclado Max Silver;Distribución Express;3;80.28
+804;Mouse Ultra Silver;Global Imports Corp;5;12.06
+805;Lámpara Ultra Z3;Textiles del Norte;10;34.16
+806;Teclado Plus Negro;Hogar y Confort Ltda.;12;25.72
+807;Laptop Portátil Negro;MegaAbasto Co.;25;620.14
+808;Televisor Eco Blanco;Hogar y Confort Ltda.;12;564.03
+809;Laptop Pro X1;Suministros Industriales Alfa;7;1031.9
+810;Mesa Modern Silver;Alimentos y Logística del Sur;15;268.0
+811;Silla Ergonómico Negro;Distribución Express;3;197.02
+812;Auriculares Basic Gris;Comercializadora Omega;20;76.67
+813;Mochila Smart Negro;Soluciones Tecnológicas Nova;8;23.99
+814;Auriculares Ultra X1;TechDistribuidora S.A.;14;71.72
+815;Laptop Inalámbrico V2;MegaAbasto Co.;25;702.53
+816;Cafetera Max Negro;Distribución Express;3;168.71
+817;Termo Inalámbrico Red;TechDistribuidora S.A.;14;10.75
+818;Camiseta Basic Gris;Alimentos y Logística del Sur;15;44.1
+819;Licuadora Basic Z3;MegaAbasto Co.;25;116.03
+820;Zapatillas Eco Silver;Suministros Industriales Alfa;7;60.68
+821;Chaqueta Modern V2;Comercializadora Omega;20;112.32
+822;Mouse Max Blanco;TechDistribuidora S.A.;14;27.23
+823;Licuadora Vintage Gris;Global Imports Corp;5;52.06
+824;Smartphone Max Blanco;Distribución Express;3;342.75
+825;Silla Pro Silver;Comercializadora Omega;20;162.06
+826;Mouse Plus Gris;TechDistribuidora S.A.;14;65.17
+827;Chaqueta Basic Gold;Alimentos y Logística del Sur;15;173.54
+828;Cargador Pro X1;Suministros Industriales Alfa;7;22.31
+829;Licuadora Advanced V2;Alimentos y Logística del Sur;15;44.9
+830;Termo Basic Azul;MegaAbasto Co.;25;17.3
+831;Smartphone Pro Z3;Soluciones Tecnológicas Nova;8;330.91
+832;Zapatillas Max Gris;TechDistribuidora S.A.;14;97.11
+833;Silla Advanced Gris;MegaAbasto Co.;25;162.63
+834;Mouse Portátil Blanco;Soluciones Tecnológicas Nova;8;41.17
+835;Gorra Smart Red;Global Imports Corp;5;24.6
+836;Chaqueta Plus Negro;Distribución Express;3;42.04
+837;Reloj Max Blanco;MegaAbasto Co.;25;202.17
+838;Lámpara Max X1;MegaAbasto Co.;25;64.47
+839;Cargador Advanced X1;Soluciones Tecnológicas Nova;8;15.61
+840;Monitor Modern Silver;Soluciones Tecnológicas Nova;8;171.98
+841;Mesa Ergonómico Gris;Textiles del Norte;10;127.55
+842;Teclado Basic Gris;Distribución Express;3;74.69
+843;Cafetera Inalámbrico X1;TechDistribuidora S.A.;14;46.88
+844;Licuadora Pro Negro;Comercializadora Omega;20;52.97
+845;Chaqueta Ergonómico Blanco;Suministros Industriales Alfa;7;161.54
+846;Mouse Ultra Z3;Soluciones Tecnológicas Nova;8;47.24
+847;Licuadora Portátil Blanco;Global Imports Corp;5;62.29
+848;Smartphone Smart Gold;TechDistribuidora S.A.;14;598.93
+849;Mesa Inalámbrico Z3;Alimentos y Logística del Sur;15;350.38
+850;Camiseta Eco X1;Soluciones Tecnológicas Nova;8;30.47
+851;Mesa Max Silver;MegaAbasto Co.;25;389.0
+852;Licuadora Premium Red;Alimentos y Logística del Sur;15;63.02
+853;Mochila Vintage Gris;TechDistribuidora S.A.;14;47.11
+854;Laptop Ergonómico Silver;Hogar y Confort Ltda.;12;1617.54
+855;Televisor Vintage Blanco;Alimentos y Logística del Sur;15;752.49
+856;Laptop Max Negro;Comercializadora Omega;20;923.55
+857;Zapatillas Inalámbrico V2;TechDistribuidora S.A.;14;124.03
+858;Silla Eco Blanco;Soluciones Tecnológicas Nova;8;150.06
+859;Cargador Portátil Z3;Suministros Industriales Alfa;7;28.41
+860;Mochila Eco Gris;TechDistribuidora S.A.;14;72.34
+861;Mesa Eco V2;Distribución Express;3;224.54
+862;Reloj Inalámbrico Blanco;Global Imports Corp;5;174.99
+863;Televisor Smart Red;Soluciones Tecnológicas Nova;8;607.15
+864;Camiseta Ergonómico Gris;TechDistribuidora S.A.;14;19.61
+865;Chaqueta Pro Red;Soluciones Tecnológicas Nova;8;35.96
+866;Mochila Max Silver;MegaAbasto Co.;25;78.23
+867;Laptop Modern Z3;MegaAbasto Co.;25;858.6
+868;Mesa Portátil Silver;Soluciones Tecnológicas Nova;8;189.8
+869;Monitor Ultra Negro;Textiles del Norte;10;310.24
+870;Zapatillas Ultra Azul;Hogar y Confort Ltda.;12;76.09
+871;Monitor Modern Negro;Distribución Express;3;157.31
+872;Mesa Modern Blanco;Hogar y Confort Ltda.;12;120.09
+873;Camiseta Vintage Blanco;Soluciones Tecnológicas Nova;8;19.94
+874;Teclado Ultra Z3;Comercializadora Omega;20;60.35
+875;Teclado Inalámbrico V2;TechDistribuidora S.A.;14;54.77
+876;Termo Vintage Gold;Comercializadora Omega;20;20.18
+877;Reloj Vintage Red;TechDistribuidora S.A.;14;208.49
+878;Mesa Ultra Gold;Alimentos y Logística del Sur;15;347.17
+879;Monitor Ergonómico X1;Comercializadora Omega;20;239.14
+880;Teclado Vintage V2;Comercializadora Omega;20;56.25
+881;Monitor Ergonómico Z3;Global Imports Corp;5;367.85
+882;Chaqueta Modern Z3;Suministros Industriales Alfa;7;92.15
+883;Camiseta Max V2;Alimentos y Logística del Sur;15;40.97
+884;Reloj Modern Z3;Hogar y Confort Ltda.;12;257.33
+885;Gorra Inalámbrico V2;Distribución Express;3;25.09
+886;Laptop Inalámbrico Z3;Alimentos y Logística del Sur;15;831.78
+887;Monitor Portátil X1;Soluciones Tecnológicas Nova;8;385.18
+888;Mouse Modern V2;Alimentos y Logística del Sur;15;18.13
+889;Mochila Premium Blanco;Suministros Industriales Alfa;7;25.74
+890;Teclado Basic Gold;Alimentos y Logística del Sur;15;48.28
+891;Mesa Max Z3;MegaAbasto Co.;25;334.54
+892;Termo Vintage Azul;Suministros Industriales Alfa;7;27.65
+893;Gorra Plus Gris;TechDistribuidora S.A.;14;16.43
+894;Laptop Ultra Negro;Textiles del Norte;10;1132.25
+895;Televisor Ultra V2;Soluciones Tecnológicas Nova;8;696.82
+896;Smartphone Advanced Negro;Hogar y Confort Ltda.;12;311.11
+897;Termo Pro Red;Textiles del Norte;10;37.79
+898;Mochila Basic X1;Global Imports Corp;5;36.95
+899;Cafetera Ultra V2;MegaAbasto Co.;25;99.33
+900;Gorra Vintage Gris;Hogar y Confort Ltda.;12;15.13
+901;Smartphone Plus V2;Suministros Industriales Alfa;7;841.25
+902;Licuadora Advanced Blanco;Textiles del Norte;10;46.71
+903;Zapatillas Advanced Red;Global Imports Corp;5;90.21
+904;Auriculares Pro Silver;Hogar y Confort Ltda.;12;97.22
+905;Licuadora Smart X1;Alimentos y Logística del Sur;15;85.95
+906;Termo Ultra X1;Comercializadora Omega;20;14.74
+907;Licuadora Pro Negro;TechDistribuidora S.A.;14;59.07
+908;Termo Pro V2;Hogar y Confort Ltda.;12;38.14
+909;Auriculares Ultra Z3;Global Imports Corp;5;26.07
+910;Licuadora Plus Red;Distribución Express;3;76.47
+911;Mouse Basic X1;MegaAbasto Co.;25;47.22
+912;Teclado Ultra Gold;TechDistribuidora S.A.;14;23.28
+913;Cafetera Basic Z3;TechDistribuidora S.A.;14;113.75
+914;Cargador Pro Gris;Distribución Express;3;18.57
+915;Mesa Portátil V2;Comercializadora Omega;20;319.45
+916;Mesa Plus Blanco;MegaAbasto Co.;25;386.61
+917;Gorra Premium Z3;TechDistribuidora S.A.;14;16.37
+918;Camiseta Advanced Negro;Hogar y Confort Ltda.;12;17.29
+919;Mouse Ergonómico Blanco;Global Imports Corp;5;54.91
+920;Monitor Pro Silver;Alimentos y Logística del Sur;15;327.93
+921;Mesa Pro Gris;Distribución Express;3;290.19
+922;Teclado Ergonómico X1;TechDistribuidora S.A.;14;18.34
+923;Camiseta Eco Gris;TechDistribuidora S.A.;14;36.17
+924;Cargador Inalámbrico Silver;Hogar y Confort Ltda.;12;11.72
+925;Smartphone Basic Gold;Suministros Industriales Alfa;7;1121.52
+926;Gorra Pro Z3;Distribución Express;3;15.07
+927;Auriculares Eco Blanco;Comercializadora Omega;20;134.73
+928;Gorra Basic Z3;Hogar y Confort Ltda.;12;20.68
+929;Licuadora Premium Red;Soluciones Tecnológicas Nova;8;87.31
+930;Teclado Vintage Z3;Soluciones Tecnológicas Nova;8;32.04
+931;Termo Inalámbrico Silver;Hogar y Confort Ltda.;12;37.43
+932;Monitor Pro Gold;Comercializadora Omega;20;396.87
+933;Mochila Advanced Azul;Hogar y Confort Ltda.;12;51.91
+934;Zapatillas Basic X1;Hogar y Confort Ltda.;12;102.39
+935;Teclado Advanced Gris;Comercializadora Omega;20;49.38
+936;Teclado Advanced Silver;Comercializadora Omega;20;26.4
+937;Televisor Pro Red;TechDistribuidora S.A.;14;633.86
+938;Lámpara Vintage Red;Global Imports Corp;5;65.15
+939;Monitor Ultra Gold;Distribución Express;3;351.02
+940;Laptop Ergonómico Negro;Comercializadora Omega;20;1849.4
+941;Gorra Smart Gold;Alimentos y Logística del Sur;15;21.75
+942;Gorra Ergonómico V2;Comercializadora Omega;20;13.45
+943;Monitor Smart Gris;Hogar y Confort Ltda.;12;430.81
+944;Teclado Portátil Silver;Global Imports Corp;5;46.41
+945;Mochila Max Blanco;Global Imports Corp;5;78.14
+946;Mochila Ergonómico Silver;TechDistribuidora S.A.;14;40.45
+947;Gorra Max Z3;MegaAbasto Co.;25;14.61
+948;Termo Vintage Azul;Alimentos y Logística del Sur;15;16.49
+949;Mouse Plus Blanco;Soluciones Tecnológicas Nova;8;51.15
+950;Reloj Smart Gris;MegaAbasto Co.;25;56.31
+951;Mochila Premium Azul;Alimentos y Logística del Sur;15;48.34
+952;Cargador Smart Gris;Suministros Industriales Alfa;7;23.08
+953;Laptop Pro V2;Alimentos y Logística del Sur;15;1701.83
+954;Monitor Pro Negro;Alimentos y Logística del Sur;15;390.93
+955;Monitor Basic Negro;Textiles del Norte;10;437.43
+956;Laptop Vintage Azul;MegaAbasto Co.;25;1901.46
+957;Termo Vintage Azul;Comercializadora Omega;20;34.85
+958;Licuadora Smart Azul;MegaAbasto Co.;25;46.17
+959;Zapatillas Max Blanco;Soluciones Tecnológicas Nova;8;67.47
+960;Cargador Pro Blanco;TechDistribuidora S.A.;14;10.68
+961;Monitor Eco Blanco;TechDistribuidora S.A.;14;192.91
+962;Mouse Inalámbrico Z3;Textiles del Norte;10;30.82
+963;Mochila Pro Gold;MegaAbasto Co.;25;60.62
+964;Lámpara Plus Gold;Global Imports Corp;5;33.25
+965;Camiseta Smart X1;Alimentos y Logística del Sur;15;24.15
+966;Camiseta Max Z3;Hogar y Confort Ltda.;12;37.83
+967;Teclado Premium Silver;Comercializadora Omega;20;29.48
+968;Mouse Basic Silver;Global Imports Corp;5;25.94
+969;Auriculares Max Gold;TechDistribuidora S.A.;14;56.31
+970;Laptop Max Z3;Global Imports Corp;5;1477.17
+971;Silla Max Silver;MegaAbasto Co.;25;242.27
+972;Cargador Advanced V2;Global Imports Corp;5;18.2
+973;Cafetera Inalámbrico X1;Hogar y Confort Ltda.;12;132.6
+974;Termo Plus V2;Distribución Express;3;27.48
+975;Mesa Inalámbrico Negro;Comercializadora Omega;20;331.57
+976;Cafetera Portátil Negro;MegaAbasto Co.;25;179.16
+977;Monitor Modern Z3;Alimentos y Logística del Sur;15;388.62
+978;Camiseta Pro Gold;Textiles del Norte;10;18.97
+979;Auriculares Premium Gris;TechDistribuidora S.A.;14;37.61
+980;Gorra Ergonómico X1;Global Imports Corp;5;15.41
+981;Mouse Max Azul;Soluciones Tecnológicas Nova;8;41.74
+982;Termo Ultra Z3;Hogar y Confort Ltda.;12;10.67
+983;Televisor Plus X1;Hogar y Confort Ltda.;12;813.66
+984;Teclado Portátil Z3;MegaAbasto Co.;25;19.41
+985;Termo Modern Z3;Suministros Industriales Alfa;7;36.87
+986;Chaqueta Eco Negro;Distribución Express;3;57.39
+987;Camiseta Premium V2;TechDistribuidora S.A.;14;31.07
+988;Cafetera Premium X1;Distribución Express;3;68.14
+989;Zapatillas Vintage Red;Alimentos y Logística del Sur;15;57.9
+990;Mouse Smart X1;Global Imports Corp;5;16.85
+991;Teclado Premium Z3;Global Imports Corp;5;41.74
+992;Teclado Smart X1;Comercializadora Omega;20;34.77
+993;Camiseta Vintage Z3;Distribución Express;3;49.36
+994;Reloj Eco Negro;TechDistribuidora S.A.;14;244.06
+995;Silla Premium Azul;MegaAbasto Co.;25;195.67
+996;Lámpara Max Gold;Suministros Industriales Alfa;7;68.38
+997;Televisor Smart X1;Alimentos y Logística del Sur;15;889.78
+998;Smartphone Plus Gris;Textiles del Norte;10;980.36
+999;Smartphone Modern Gold;Suministros Industriales Alfa;7;876.51
+1000;Laptop Modern Blanco;MegaAbasto Co.;25;1019.41
+1001;Laptop Smart Gris;Suministros Industriales Alfa;7;923.18
+1002;Mouse Inalámbrico Z3;Suministros Industriales Alfa;7;40.23
+1003;Chaqueta Basic Z3;Hogar y Confort Ltda.;12;172.54
+1004;Teclado Max Gold;Suministros Industriales Alfa;7;28.34
+1005;Licuadora Basic Negro;TechDistribuidora S.A.;14;65.89
+1006;Silla Pro Negro;Global Imports Corp;5;159.34
+1007;Silla Advanced Silver;Comercializadora Omega;20;180.07
+1008;Reloj Ergonómico Azul;Textiles del Norte;10;87.5
+1009;Chaqueta Ultra Gris;TechDistribuidora S.A.;14;130.13
+1010;Reloj Modern Negro;MegaAbasto Co.;25;268.26
+1011;Zapatillas Inalámbrico Red;Global Imports Corp;5;145.5
+1012;Cafetera Modern Gold;TechDistribuidora S.A.;14;151.75
+1013;Televisor Vintage Gold;TechDistribuidora S.A.;14;854.09
+1014;Monitor Portátil Z3;TechDistribuidora S.A.;14;186.69
+1015;Chaqueta Inalámbrico Azul;Distribución Express;3;116.48
+1016;Monitor Advanced Z3;Soluciones Tecnológicas Nova;8;291.38
+1017;Lámpara Basic Blanco;MegaAbasto Co.;25;35.1
+1018;Mochila Vintage Negro;Textiles del Norte;10;62.72
+1019;Mesa Advanced Gris;Distribución Express;3;227.88
+1020;Camiseta Basic Gold;Hogar y Confort Ltda.;12;23.55
+1021;Cafetera Premium Gold;Distribución Express;3;75.34
+1022;Smartphone Portátil Z3;TechDistribuidora S.A.;14;536.96
+1023;Monitor Advanced X1;Soluciones Tecnológicas Nova;8;385.86
+1024;Mochila Max Red;Textiles del Norte;10;24.08
+1025;Monitor Ergonómico Gold;TechDistribuidora S.A.;14;255.09
+1026;Mochila Pro X1;Suministros Industriales Alfa;7;66.2
+1027;Lámpara Ergonómico Z3;MegaAbasto Co.;25;68.19
+1028;Mouse Premium Azul;Comercializadora Omega;20;37.74
+1029;Auriculares Plus Negro;Alimentos y Logística del Sur;15;111.44
+1030;Mouse Advanced X1;MegaAbasto Co.;25;19.37
+1031;Chaqueta Portátil Silver;TechDistribuidora S.A.;14;151.32
+1032;Chaqueta Advanced Negro;TechDistribuidora S.A.;14;40.98
+1033;Camiseta Advanced Gold;TechDistribuidora S.A.;14;38.15
+1034;Mochila Ergonómico Red;Distribución Express;3;20.37
+1035;Camiseta Advanced Negro;Suministros Industriales Alfa;7;35.52
+1036;Camiseta Ultra Z3;Alimentos y Logística del Sur;15;21.12
+1037;Mochila Premium Z3;TechDistribuidora S.A.;14;66.9
+1038;Zapatillas Eco Z3;Hogar y Confort Ltda.;12;84.15
+1039;Mouse Max V2;Comercializadora Omega;20;13.64
+1040;Chaqueta Smart Gris;MegaAbasto Co.;25;49.23
+1041;Chaqueta Ergonómico Red;Comercializadora Omega;20;88.87
+1042;Termo Modern Azul;Textiles del Norte;10;29.99
+1043;Mochila Pro Negro;Alimentos y Logística del Sur;15;39.71
+1044;Mesa Ultra Azul;Suministros Industriales Alfa;7;364.31
+1045;Zapatillas Pro Silver;Hogar y Confort Ltda.;12;71.43
+1046;Mochila Premium Z3;MegaAbasto Co.;25;76.15
+1047;Cargador Vintage Z3;TechDistribuidora S.A.;14;14.01
+1048;Cafetera Premium Gold;Textiles del Norte;10;115.54
+1049;Silla Premium Gris;Global Imports Corp;5;242.07
+1050;Monitor Eco Gris;Distribución Express;3;261.97
+1051;Mochila Basic Negro;TechDistribuidora S.A.;14;44.28
+1052;Laptop Pro Z3;Suministros Industriales Alfa;7;824.67
+1053;Camiseta Ergonómico Gold;Global Imports Corp;5;17.86
+1054;Monitor Premium X1;Textiles del Norte;10;444.51
+1055;Lámpara Premium Z3;Global Imports Corp;5;35.43
+1056;Auriculares Ergonómico V2;Distribución Express;3;72.81
+1057;Chaqueta Ultra Azul;Comercializadora Omega;20;82.02
+1058;Mochila Inalámbrico Blanco;Distribución Express;3;62.33
+1059;Termo Advanced Gold;Soluciones Tecnológicas Nova;8;21.65
+1060;Mochila Pro Z3;Textiles del Norte;10;57.78
+1061;Reloj Smart Silver;Textiles del Norte;10;220.45
+1062;Laptop Ultra Silver;MegaAbasto Co.;25;792.73
+1063;Chaqueta Modern Azul;Textiles del Norte;10;46.21
+1064;Silla Eco Red;Textiles del Norte;10;105.93
+1065;Televisor Basic Z3;Global Imports Corp;5;422.85
+1066;Silla Ultra Z3;Global Imports Corp;5;119.93
+1067;Cargador Vintage V2;MegaAbasto Co.;25;33.29
+1068;Teclado Pro Red;Hogar y Confort Ltda.;12;19.42
+1069;Zapatillas Eco Silver;Global Imports Corp;5;78.05
+1070;Laptop Advanced Z3;Distribución Express;3;759.05
+1071;Chaqueta Ultra Azul;Hogar y Confort Ltda.;12;126.22
+1072;Gorra Portátil Gold;Hogar y Confort Ltda.;12;12.26
+1073;Laptop Max X1;Comercializadora Omega;20;1221.45
+1074;Gorra Modern Azul;Soluciones Tecnológicas Nova;8;19.4
+1075;Auriculares Modern Blanco;TechDistribuidora S.A.;14;122.09
+1076;Gorra Pro Azul;Alimentos y Logística del Sur;15;16.79
+1077;Termo Inalámbrico V2;TechDistribuidora S.A.;14;23.39
+1078;Cargador Inalámbrico Negro;Comercializadora Omega;20;20.27
+1079;Silla Ergonómico Gold;Global Imports Corp;5;239.36
+1080;Mouse Plus V2;Suministros Industriales Alfa;7;32.44
+1081;Auriculares Plus V2;MegaAbasto Co.;25;121.03
+1082;Reloj Ultra X1;Textiles del Norte;10;62.49
+1083;Lámpara Eco Negro;Textiles del Norte;10;72.07
+1084;Mouse Portátil Z3;Soluciones Tecnológicas Nova;8;19.09
+1085;Lámpara Plus V2;Textiles del Norte;10;66.75
+1086;Teclado Modern Negro;Hogar y Confort Ltda.;12;88.39
+1087;Licuadora Modern Negro;Suministros Industriales Alfa;7;105.79
+1088;Reloj Premium Gold;Global Imports Corp;5;86.52
+1089;Licuadora Smart Z3;TechDistribuidora S.A.;14;94.24
+1090;Silla Inalámbrico Negro;Global Imports Corp;5;89.92
+1091;Cargador Basic X1;Distribución Express;3;29.31
+1092;Mesa Basic Gris;Global Imports Corp;5;354.61
+1093;Zapatillas Inalámbrico Negro;Comercializadora Omega;20;139.82
+1094;Monitor Smart Negro;MegaAbasto Co.;25;130.27
+1095;Auriculares Smart Blanco;Soluciones Tecnológicas Nova;8;147.9
+1096;Camiseta Ultra Azul;Global Imports Corp;5;26.06
+1097;Cargador Eco Z3;Alimentos y Logística del Sur;15;19.02
+1098;Auriculares Pro Azul;Alimentos y Logística del Sur;15;100.33
+1099;Smartphone Premium V2;Soluciones Tecnológicas Nova;8;371.45
+1100;Mouse Basic Negro;TechDistribuidora S.A.;14;18.44
+1101;Televisor Pro Red;Suministros Industriales Alfa;7;367.69
+1102;Laptop Basic Blanco;Hogar y Confort Ltda.;12;1285.65
+1103;Televisor Basic V2;Alimentos y Logística del Sur;15;877.73
+1104;Mouse Ergonómico V2;Textiles del Norte;10;10.98
+1105;Reloj Premium Red;Suministros Industriales Alfa;7;177.28
+1106;Auriculares Plus Red;Suministros Industriales Alfa;7;120.05
+1107;Monitor Portátil V2;Soluciones Tecnológicas Nova;8;133.31
+1108;Camiseta Modern Negro;Soluciones Tecnológicas Nova;8;28.0
+1109;Auriculares Ultra Gold;Alimentos y Logística del Sur;15;48.71
+1110;Silla Pro V2;Distribución Express;3;196.94
+1111;Auriculares Pro V2;TechDistribuidora S.A.;14;92.41
+1112;Cafetera Smart X1;Suministros Industriales Alfa;7;39.0
+1113;Licuadora Eco Negro;MegaAbasto Co.;25;81.28
+1114;Televisor Advanced Gold;Global Imports Corp;5;704.18
+1115;Mochila Vintage Gold;Textiles del Norte;10;33.09
+1116;Laptop Eco Blanco;MegaAbasto Co.;25;1588.15
+1117;Reloj Pro Azul;Hogar y Confort Ltda.;12;136.11
+1118;Smartphone Portátil X1;Soluciones Tecnológicas Nova;8;667.28
+1119;Zapatillas Vintage X1;Global Imports Corp;5;92.83
+1120;Zapatillas Eco Gris;Suministros Industriales Alfa;7;114.0
+1121;Gorra Premium Silver;Global Imports Corp;5;23.74
+1122;Televisor Smart Gold;MegaAbasto Co.;25;560.86
+1123;Gorra Basic Silver;TechDistribuidora S.A.;14;25.55
+1124;Cargador Max X1;MegaAbasto Co.;25;22.18
+1125;Cafetera Pro Red;Global Imports Corp;5;125.1
+1126;Televisor Max Blanco;TechDistribuidora S.A.;14;606.66
+1127;Zapatillas Basic Negro;Suministros Industriales Alfa;7;64.93
+1128;Camiseta Ergonómico Gris;Global Imports Corp;5;25.0
+1129;Auriculares Vintage Gris;MegaAbasto Co.;25;32.56
+1130;Teclado Pro Azul;Alimentos y Logística del Sur;15;60.23
+1131;Camiseta Plus Negro;Alimentos y Logística del Sur;15;25.19
+1132;Cargador Premium Silver;Comercializadora Omega;20;22.58
+1133;Gorra Inalámbrico Red;Distribución Express;3;21.14
+1134;Mochila Modern Silver;Suministros Industriales Alfa;7;65.29
+1135;Reloj Modern Gris;Suministros Industriales Alfa;7;184.95
+1136;Televisor Plus Gold;Soluciones Tecnológicas Nova;8;579.97
+1137;Mochila Premium Azul;Suministros Industriales Alfa;7;48.08
+1138;Cafetera Portátil Red;Textiles del Norte;10;69.82
+1139;Televisor Smart Gris;Comercializadora Omega;20;268.91
+1140;Smartphone Plus Gris;Textiles del Norte;10;1083.47
+1141;Mesa Pro V2;Distribución Express;3;206.06
+1142;Gorra Ergonómico Gold;Hogar y Confort Ltda.;12;18.84
+1143;Zapatillas Plus X1;Textiles del Norte;10;112.98
+1144;Gorra Inalámbrico Gold;Soluciones Tecnológicas Nova;8;24.27
+1145;Cargador Smart V2;Suministros Industriales Alfa;7;21.34
+1146;Reloj Inalámbrico Silver;MegaAbasto Co.;25;225.27
+1147;Licuadora Smart Negro;Hogar y Confort Ltda.;12;37.5
+1148;Silla Basic V2;Distribución Express;3;248.18
+1149;Camiseta Modern X1;Soluciones Tecnológicas Nova;8;37.99
+1150;Silla Ergonómico Red;Textiles del Norte;10;108.88
+1151;Cargador Ergonómico Gris;Alimentos y Logística del Sur;15;28.8
+1152;Mesa Modern Gold;Textiles del Norte;10;203.62
+1153;Gorra Basic Red;Global Imports Corp;5;14.87
+1154;Mouse Max V2;Hogar y Confort Ltda.;12;22.59
+1155;Cafetera Modern V2;Global Imports Corp;5;51.25
+1156;Smartphone Modern Azul;Distribución Express;3;1087.46
+1157;Lámpara Modern Gris;TechDistribuidora S.A.;14;76.97
+1158;Mesa Portátil V2;Soluciones Tecnológicas Nova;8;179.98
+1159;Chaqueta Vintage Gold;Soluciones Tecnológicas Nova;8;56.05
+1160;Licuadora Advanced X1;TechDistribuidora S.A.;14;29.36
+1161;Smartphone Ultra Silver;MegaAbasto Co.;25;432.54
+1162;Mesa Ultra Gold;Hogar y Confort Ltda.;12;395.72
+1163;Licuadora Max Red;Textiles del Norte;10;88.26
+1164;Reloj Pro V2;MegaAbasto Co.;25;177.85
+1165;Cafetera Premium Silver;MegaAbasto Co.;25;180.74
+1166;Mouse Eco X1;Soluciones Tecnológicas Nova;8;31.82
+1167;Cafetera Ergonómico Silver;Suministros Industriales Alfa;7;143.98
+1168;Reloj Modern Gold;Global Imports Corp;5;93.45
+1169;Chaqueta Basic Negro;Global Imports Corp;5;160.93
+1170;Zapatillas Ergonómico V2;Hogar y Confort Ltda.;12;110.8
+1171;Mochila Premium X1;Global Imports Corp;5;49.61
+1172;Chaqueta Eco Azul;Comercializadora Omega;20;97.52
+1173;Termo Plus X1;Soluciones Tecnológicas Nova;8;28.05
+1174;Zapatillas Portátil Blanco;MegaAbasto Co.;25;116.23
+1175;Mouse Advanced Silver;Soluciones Tecnológicas Nova;8;14.66
+1176;Cafetera Pro X1;Distribución Express;3;118.49
+1177;Reloj Vintage Red;Hogar y Confort Ltda.;12;168.22
+1178;Monitor Pro X1;Comercializadora Omega;20;354.5
+1179;Licuadora Modern Gris;Global Imports Corp;5;80.75
+1180;Termo Eco Silver;MegaAbasto Co.;25;36.36
+1181;Camiseta Max V2;Comercializadora Omega;20;46.15
+1182;Laptop Modern Negro;Hogar y Confort Ltda.;12;760.32
+1183;Camiseta Ultra Negro;Soluciones Tecnológicas Nova;8;46.57
+1184;Mochila Basic Azul;Global Imports Corp;5;67.71
+1185;Licuadora Basic Azul;Hogar y Confort Ltda.;12;115.11
+1186;Auriculares Max Gold;Global Imports Corp;5;37.7
+1187;Mouse Modern Silver;Hogar y Confort Ltda.;12;67.8
+1188;Chaqueta Ultra Blanco;Alimentos y Logística del Sur;15;118.2
+1189;Lámpara Vintage Gold;Distribución Express;3;77.46
+1190;Camiseta Ultra Blanco;Suministros Industriales Alfa;7;31.55
+1191;Licuadora Inalámbrico Red;Global Imports Corp;5;94.92
+1192;Mouse Ultra X1;MegaAbasto Co.;25;59.99
+1193;Zapatillas Max Azul;Textiles del Norte;10;149.75
+1194;Monitor Basic Azul;Hogar y Confort Ltda.;12;271.18
+1195;Mesa Basic Silver;Textiles del Norte;10;208.26
+1196;Mochila Vintage Azul;Distribución Express;3;40.79
+1197;Laptop Ultra Red;Global Imports Corp;5;1600.05
+1198;Smartphone Portátil Blanco;Distribución Express;3;673.62
+1199;Cargador Smart Silver;Textiles del Norte;10;10.57
+1200;Auriculares Ergonómico V2;TechDistribuidora S.A.;14;83.9
+1201;Smartphone Ergonómico Azul;Textiles del Norte;10;793.61
+1202;Reloj Portátil Silver;Textiles del Norte;10;185.96
+1203;Silla Ultra Gold;Textiles del Norte;10;79.75
+1204;Auriculares Advanced V2;Alimentos y Logística del Sur;15;77.1
+1205;Smartphone Premium Silver;Alimentos y Logística del Sur;15;794.54
+1206;Smartphone Advanced Z3;Soluciones Tecnológicas Nova;8;946.24
+1207;Monitor Max Gris;Soluciones Tecnológicas Nova;8;196.68
+1208;Mesa Max Gold;Suministros Industriales Alfa;7;111.62
+1209;Cargador Basic Z3;Alimentos y Logística del Sur;15;31.28
+1210;Reloj Eco Gris;Textiles del Norte;10;298.62
+1211;Laptop Basic Gris;TechDistribuidora S.A.;14;1490.38
+1212;Auriculares Ultra Z3;Textiles del Norte;10;139.08
+1213;Auriculares Premium Gris;Soluciones Tecnológicas Nova;8;101.44
+1214;Zapatillas Eco Red;TechDistribuidora S.A.;14;128.93
+1215;Silla Ergonómico Blanco;Soluciones Tecnológicas Nova;8;108.1
+1216;Chaqueta Premium Silver;Textiles del Norte;10;152.8
+1217;Gorra Vintage Blanco;Suministros Industriales Alfa;7;25.62
+1218;Cafetera Ultra Gold;Global Imports Corp;5;51.6
+1219;Termo Advanced Silver;Soluciones Tecnológicas Nova;8;13.58
+1220;Termo Eco Azul;Soluciones Tecnológicas Nova;8;29.45
+1221;Monitor Inalámbrico Silver;Comercializadora Omega;20;390.36
+1222;Mesa Pro Gold;Distribución Express;3;105.33
+1223;Auriculares Modern Silver;Alimentos y Logística del Sur;15;95.18
+1224;Laptop Portátil X1;MegaAbasto Co.;25;1929.82
+1225;Cafetera Pro Azul;MegaAbasto Co.;25;77.8
+1226;Laptop Modern Red;Comercializadora Omega;20;1264.48
+1227;Laptop Advanced Blanco;Hogar y Confort Ltda.;12;1789.88
+1228;Smartphone Vintage Z3;Comercializadora Omega;20;1115.01
+1229;Termo Modern Gris;TechDistribuidora S.A.;14;27.2
+1230;Lámpara Modern Negro;Hogar y Confort Ltda.;12;41.15
+1231;Camiseta Ultra Blanco;Soluciones Tecnológicas Nova;8;15.16
+1232;Lámpara Ultra Z3;TechDistribuidora S.A.;14;78.03
+1233;Licuadora Smart Azul;Textiles del Norte;10;40.77
+1234;Cargador Pro Negro;Global Imports Corp;5;20.91
+1235;Televisor Premium Red;Alimentos y Logística del Sur;15;552.02
+1236;Cargador Vintage Red;Distribución Express;3;33.32
+1237;Gorra Max Gris;Textiles del Norte;10;25.97
+1238;Mouse Inalámbrico Blanco;Comercializadora Omega;20;68.56
+1239;Reloj Inalámbrico V2;Textiles del Norte;10;228.21
+1240;Mouse Basic Silver;Alimentos y Logística del Sur;15;51.33
+1241;Zapatillas Vintage Gris;Hogar y Confort Ltda.;12;73.88
+1242;Licuadora Ergonómico X1;Alimentos y Logística del Sur;15;39.9
+1243;Cargador Premium Gold;Alimentos y Logística del Sur;15;27.36
+1244;Lámpara Pro Z3;Hogar y Confort Ltda.;12;35.39
+1245;Cafetera Portátil Z3;TechDistribuidora S.A.;14;69.35
+1246;Mochila Ultra V2;MegaAbasto Co.;25;79.31
+1247;Chaqueta Basic Red;Alimentos y Logística del Sur;15;42.78
+1248;Cargador Portátil X1;Alimentos y Logística del Sur;15;32.77
+1249;Gorra Portátil Azul;MegaAbasto Co.;25;14.15
+1250;Mesa Eco Z3;Alimentos y Logística del Sur;15;237.45
+1251;Licuadora Ergonómico Gris;MegaAbasto Co.;25;43.72
+1252;Lámpara Ergonómico Gris;MegaAbasto Co.;25;36.13
+1253;Lámpara Inalámbrico Z3;Hogar y Confort Ltda.;12;74.06
+1254;Cargador Smart Gold;MegaAbasto Co.;25;31.62
+1255;Zapatillas Plus Blanco;Hogar y Confort Ltda.;12;142.5
+1256;Auriculares Ultra Blanco;Alimentos y Logística del Sur;15;138.89
+1257;Camiseta Portátil X1;Comercializadora Omega;20;30.54
+1258;Silla Ultra Red;TechDistribuidora S.A.;14;108.54
+1259;Mesa Vintage Red;Hogar y Confort Ltda.;12;389.11
+1260;Mochila Advanced Negro;Suministros Industriales Alfa;7;44.38
+1261;Laptop Basic Negro;Comercializadora Omega;20;1073.81
+1262;Silla Ultra Azul;Global Imports Corp;5;88.87
+1263;Smartphone Vintage Gris;Comercializadora Omega;20;469.44
+1264;Lámpara Modern Blanco;TechDistribuidora S.A.;14;21.61
+1265;Televisor Vintage Blanco;MegaAbasto Co.;25;749.05
+1266;Mochila Vintage Negro;MegaAbasto Co.;25;49.66
+1267;Licuadora Ergonómico Blanco;Global Imports Corp;5;106.37
+1268;Silla Inalámbrico Z3;Distribución Express;3;115.88
+1269;Laptop Max Blanco;Global Imports Corp;5;1291.21
+1270;Camiseta Ultra X1;MegaAbasto Co.;25;29.03
+1271;Chaqueta Max Silver;Distribución Express;3;60.04
+1272;Silla Ultra Red;Distribución Express;3;209.99
+1273;Zapatillas Ultra Silver;Alimentos y Logística del Sur;15;62.37
+1274;Auriculares Ergonómico Red;Hogar y Confort Ltda.;12;48.7
+1275;Termo Vintage Azul;Comercializadora Omega;20;30.19
+1276;Lámpara Pro V2;Global Imports Corp;5;48.75
+1277;Zapatillas Modern Gris;Alimentos y Logística del Sur;15;68.37
+1278;Cargador Advanced X1;MegaAbasto Co.;25;16.95
+1279;Mouse Smart Gold;Textiles del Norte;10;42.0
+1280;Smartphone Modern Negro;Distribución Express;3;958.73
+1281;Mochila Basic Gold;Soluciones Tecnológicas Nova;8;44.85
+1282;Smartphone Eco Azul;TechDistribuidora S.A.;14;1091.29
+1283;Reloj Advanced Gold;Textiles del Norte;10;52.57
+1284;Chaqueta Vintage V2;Comercializadora Omega;20;146.87
+1285;Mouse Smart Blanco;Global Imports Corp;5;53.29
+1286;Cargador Advanced V2;Soluciones Tecnológicas Nova;8;27.78
+1287;Auriculares Eco V2;MegaAbasto Co.;25;95.89
+1288;Lámpara Inalámbrico Blanco;TechDistribuidora S.A.;14;63.48
+1289;Cargador Vintage Gold;Distribución Express;3;28.7
+1290;Chaqueta Vintage Gris;MegaAbasto Co.;25;130.58
+1291;Auriculares Smart Gris;MegaAbasto Co.;25;95.35
+1292;Cafetera Advanced Red;Global Imports Corp;5;116.28
+1293;Televisor Ultra Gris;TechDistribuidora S.A.;14;676.89
+1294;Televisor Plus Gold;MegaAbasto Co.;25;390.35
+1295;Silla Portátil Blanco;Distribución Express;3;140.49
+1296;Zapatillas Vintage Blanco;Comercializadora Omega;20;63.19
+1297;Reloj Eco X1;Distribución Express;3;255.16
+1298;Chaqueta Premium Silver;Global Imports Corp;5;151.28
+1299;Televisor Inalámbrico Red;Textiles del Norte;10;671.3
+1300;Televisor Modern V2;Comercializadora Omega;20;309.42
+1301;Zapatillas Smart X1;Suministros Industriales Alfa;7;106.85
+1302;Reloj Eco V2;TechDistribuidora S.A.;14;231.56
+1303;Auriculares Inalámbrico Blanco;Textiles del Norte;10;79.64
+1304;Cafetera Vintage Gold;TechDistribuidora S.A.;14;177.3
+1305;Zapatillas Modern Z3;Soluciones Tecnológicas Nova;8;126.7
+1306;Licuadora Advanced Gold;Hogar y Confort Ltda.;12;52.35
+1307;Licuadora Ultra Z3;Soluciones Tecnológicas Nova;8;28.97
+1308;Chaqueta Ergonómico Silver;Textiles del Norte;10;97.37
+1309;Licuadora Smart Gold;TechDistribuidora S.A.;14;71.6
+1310;Mouse Portátil Gris;Comercializadora Omega;20;66.58
+1311;Gorra Ultra Silver;Alimentos y Logística del Sur;15;20.42
+1312;Lámpara Max Azul;Alimentos y Logística del Sur;15;76.26
+1313;Camiseta Basic Blanco;Textiles del Norte;10;20.9
+1314;Reloj Plus Gold;Distribución Express;3;129.97
+1315;Mouse Eco Red;Hogar y Confort Ltda.;12;22.37
+1316;Reloj Advanced Red;Textiles del Norte;10;288.88
+1317;Televisor Max Gold;Alimentos y Logística del Sur;15;358.08
+1318;Reloj Inalámbrico Red;Alimentos y Logística del Sur;15;269.13
+1319;Chaqueta Max Silver;Alimentos y Logística del Sur;15;55.7
+1320;Cafetera Portátil Red;Alimentos y Logística del Sur;15;73.49
+1321;Termo Vintage Negro;Global Imports Corp;5;34.5
+1322;Auriculares Vintage Gris;Textiles del Norte;10;42.18
+1323;Termo Ultra Gold;MegaAbasto Co.;25;18.34
+1324;Laptop Pro V2;TechDistribuidora S.A.;14;1765.34
+1325;Televisor Vintage Blanco;Textiles del Norte;10;280.5
+1326;Mesa Ergonómico Red;Comercializadora Omega;20;347.61
+1327;Licuadora Pro Blanco;Hogar y Confort Ltda.;12;30.55
+1328;Monitor Plus Gris;Distribución Express;3;226.26
+1329;Mochila Basic Gris;MegaAbasto Co.;25;51.22
+1330;Lámpara Modern Silver;Textiles del Norte;10;57.16
+1331;Camiseta Ultra V2;Hogar y Confort Ltda.;12;46.92
+1332;Silla Smart Silver;Comercializadora Omega;20;169.97
+1333;Cafetera Ultra Negro;Hogar y Confort Ltda.;12;155.94
+1334;Mesa Advanced Azul;Distribución Express;3;144.39
+1335;Smartphone Basic Azul;TechDistribuidora S.A.;14;1023.72
+1336;Teclado Max Negro;Textiles del Norte;10;76.26
+1337;Zapatillas Basic Gris;Hogar y Confort Ltda.;12;76.54
+1338;Cargador Pro V2;Global Imports Corp;5;12.15
+1339;Mesa Smart Gold;Global Imports Corp;5;358.18
+1340;Mochila Advanced Gold;TechDistribuidora S.A.;14;42.73
+1341;Cargador Plus Silver;Global Imports Corp;5;30.63
+1342;Gorra Basic Z3;Comercializadora Omega;20;20.39
+1343;Teclado Eco Gris;Hogar y Confort Ltda.;12;55.67
+1344;Teclado Modern Z3;TechDistribuidora S.A.;14;27.2
+1345;Teclado Advanced Silver;Alimentos y Logística del Sur;15;64.89
+1346;Cargador Modern Gris;MegaAbasto Co.;25;15.04
+1347;Monitor Advanced Gold;Alimentos y Logística del Sur;15;132.44
+1348;Cargador Modern Gris;Distribución Express;3;16.48
+1349;Zapatillas Modern Azul;Soluciones Tecnológicas Nova;8;66.66
+1350;Televisor Inalámbrico Red;Soluciones Tecnológicas Nova;8;751.78
+1351;Lámpara Plus Red;MegaAbasto Co.;25;39.73
+1352;Mouse Smart Blanco;Textiles del Norte;10;51.08
+1353;Termo Advanced Blanco;Hogar y Confort Ltda.;12;17.07
+1354;Silla Plus X1;Soluciones Tecnológicas Nova;8;195.87
+1355;Chaqueta Advanced Gris;TechDistribuidora S.A.;14;94.02
+1356;Chaqueta Premium X1;Global Imports Corp;5;64.63
+1357;Mouse Eco Z3;Soluciones Tecnológicas Nova;8;23.03
+1358;Mouse Eco X1;Textiles del Norte;10;59.89
+1359;Gorra Ergonómico Gris;Suministros Industriales Alfa;7;13.93
+1360;Cafetera Max X1;MegaAbasto Co.;25;139.25
+1361;Teclado Advanced Blanco;Comercializadora Omega;20;53.23
+1362;Smartphone Modern Azul;Soluciones Tecnológicas Nova;8;795.55
+1363;Mouse Ultra X1;Global Imports Corp;5;15.77
+1364;Mouse Inalámbrico Blanco;Global Imports Corp;5;59.95
+1365;Smartphone Premium Azul;Alimentos y Logística del Sur;15;602.23
+1366;Laptop Plus X1;Textiles del Norte;10;929.12
+1367;Chaqueta Vintage Red;MegaAbasto Co.;25;84.13
+1368;Monitor Vintage Azul;TechDistribuidora S.A.;14;308.39
+1369;Termo Max X1;Distribución Express;3;18.78
+1370;Cafetera Inalámbrico Gris;Alimentos y Logística del Sur;15;149.01
+1371;Zapatillas Premium Gris;Soluciones Tecnológicas Nova;8;46.68
+1372;Mochila Vintage Negro;MegaAbasto Co.;25;77.45
+1373;Camiseta Advanced Red;Suministros Industriales Alfa;7;44.91
+1374;Mochila Eco Azul;Comercializadora Omega;20;24.31
+1375;Silla Portátil X1;Soluciones Tecnológicas Nova;8;163.52
+1376;Licuadora Eco Negro;Alimentos y Logística del Sur;15;57.16
+1377;Chaqueta Portátil Z3;Suministros Industriales Alfa;7;55.47
+1378;Smartphone Basic Gris;Alimentos y Logística del Sur;15;420.31
+1379;Gorra Pro X1;Comercializadora Omega;20;19.53
+1380;Zapatillas Advanced Z3;Soluciones Tecnológicas Nova;8;139.98
+1381;Silla Eco Azul;Hogar y Confort Ltda.;12;160.2
+1382;Gorra Vintage Gold;Suministros Industriales Alfa;7;16.88
+1383;Licuadora Ergonómico V2;Alimentos y Logística del Sur;15;52.07
+1384;Laptop Pro Gris;Distribución Express;3;1481.86
+1385;Televisor Plus Azul;TechDistribuidora S.A.;14;641.23
+1386;Licuadora Pro Gold;Global Imports Corp;5;44.24
+1387;Teclado Ultra Silver;Hogar y Confort Ltda.;12;83.65
+1388;Chaqueta Pro Z3;Global Imports Corp;5;59.25
+1389;Licuadora Advanced X1;Comercializadora Omega;20;97.92
+1390;Mouse Eco Z3;Hogar y Confort Ltda.;12;44.54
+1391;Mochila Portátil X1;Global Imports Corp;5;72.13
+1392;Teclado Modern V2;Comercializadora Omega;20;79.91
+1393;Lámpara Eco Silver;Comercializadora Omega;20;75.82
+1394;Gorra Basic Blanco;Distribución Express;3;13.33
+1395;Cargador Ergonómico V2;MegaAbasto Co.;25;23.54
+1396;Teclado Eco Silver;Comercializadora Omega;20;32.67
+1397;Reloj Eco Gold;Suministros Industriales Alfa;7;107.94
+1398;Camiseta Premium Negro;Suministros Industriales Alfa;7;35.26
+1399;Zapatillas Portátil Silver;Textiles del Norte;10;145.57
+1400;Auriculares Premium V2;MegaAbasto Co.;25;98.11
+1401;Silla Eco Blanco;Suministros Industriales Alfa;7;103.14
+1402;Laptop Portátil Gold;MegaAbasto Co.;25;1287.16
+1403;Termo Inalámbrico Blanco;Comercializadora Omega;20;39.05
+1404;Zapatillas Eco Azul;Textiles del Norte;10;129.7
+1405;Silla Advanced Gris;Global Imports Corp;5;88.42
+1406;Termo Vintage X1;Textiles del Norte;10;25.39
+1407;Reloj Pro Gold;TechDistribuidora S.A.;14;225.14
+1408;Mesa Basic Gris;Alimentos y Logística del Sur;15;221.34
+1409;Televisor Advanced X1;Textiles del Norte;10;250.44
+1410;Cafetera Vintage Blanco;MegaAbasto Co.;25;101.75
+1411;Smartphone Portátil Azul;MegaAbasto Co.;25;333.15
+1412;Teclado Modern X1;Hogar y Confort Ltda.;12;35.05
+1413;Mouse Eco Azul;Comercializadora Omega;20;34.05
+1414;Teclado Plus Z3;Soluciones Tecnológicas Nova;8;17.83
+1415;Gorra Smart Red;Global Imports Corp;5;19.19
+1416;Teclado Basic V2;Textiles del Norte;10;51.7
+1417;Silla Ultra Red;Comercializadora Omega;20;239.24
+1418;Televisor Portátil V2;Alimentos y Logística del Sur;15;612.56
+1419;Mouse Basic Blanco;Alimentos y Logística del Sur;15;29.79
+1420;Silla Modern Silver;Global Imports Corp;5;177.26
+1421;Lámpara Basic Negro;Distribución Express;3;50.98
+1422;Licuadora Premium Blanco;Distribución Express;3;52.72
+1423;Zapatillas Advanced Blanco;Textiles del Norte;10;143.68
+1424;Camiseta Smart Blanco;Comercializadora Omega;20;23.51
+1425;Cafetera Inalámbrico Silver;Hogar y Confort Ltda.;12;110.28
+1426;Auriculares Smart Azul;Hogar y Confort Ltda.;12;88.6
+1427;Cafetera Basic Red;Suministros Industriales Alfa;7;186.15
+1428;Gorra Vintage Blanco;TechDistribuidora S.A.;14;13.86
+1429;Mochila Basic Azul;Distribución Express;3;28.62
+1430;Smartphone Inalámbrico V2;MegaAbasto Co.;25;673.17
+1431;Teclado Portátil Red;MegaAbasto Co.;25;35.54
+1432;Silla Ultra Azul;MegaAbasto Co.;25;189.61
+1433;Termo Pro Azul;Distribución Express;3;26.0
+1434;Silla Ergonómico Azul;Hogar y Confort Ltda.;12;142.57
+1435;Mouse Plus Silver;MegaAbasto Co.;25;54.06
+1436;Monitor Modern V2;Hogar y Confort Ltda.;12;140.13
+1437;Auriculares Pro Azul;Comercializadora Omega;20;141.76
+1438;Monitor Pro Blanco;Comercializadora Omega;20;163.76
+1439;Auriculares Modern Silver;Suministros Industriales Alfa;7;76.8
+1440;Reloj Pro Blanco;Global Imports Corp;5;271.79
+1441;Televisor Portátil Azul;Soluciones Tecnológicas Nova;8;551.61
+1442;Zapatillas Premium X1;MegaAbasto Co.;25;84.97
+1443;Silla Premium Gold;TechDistribuidora S.A.;14;230.97
+1444;Licuadora Pro Blanco;Suministros Industriales Alfa;7;32.13
+1445;Cafetera Ultra Blanco;TechDistribuidora S.A.;14;48.52
+1446;Reloj Max Red;Alimentos y Logística del Sur;15;119.02
+1447;Monitor Ultra Gold;Suministros Industriales Alfa;7;401.24
+1448;Lámpara Pro Negro;Alimentos y Logística del Sur;15;23.77
+1449;Silla Inalámbrico Negro;Soluciones Tecnológicas Nova;8;153.33
+1450;Reloj Portátil Z3;Global Imports Corp;5;283.23
+1451;Mouse Portátil Gris;Hogar y Confort Ltda.;12;50.29
+1452;Televisor Basic Silver;Global Imports Corp;5;623.14
+1453;Termo Advanced Silver;Soluciones Tecnológicas Nova;8;27.09
+1454;Smartphone Smart Z3;Alimentos y Logística del Sur;15;1178.85
+1455;Smartphone Eco Silver;Hogar y Confort Ltda.;12;305.87
+1456;Reloj Modern Gris;MegaAbasto Co.;25;170.36
+1457;Cafetera Portátil Blanco;Distribución Express;3;30.41
+1458;Mesa Plus V2;Comercializadora Omega;20;242.71
+1459;Camiseta Modern Azul;Distribución Express;3;33.16
+1460;Camiseta Plus Silver;TechDistribuidora S.A.;14;22.29
+1461;Reloj Modern Silver;Comercializadora Omega;20;251.71
+1462;Lámpara Inalámbrico Gold;Distribución Express;3;17.39
+1463;Mesa Smart V2;MegaAbasto Co.;25;138.89
+1464;Televisor Basic Z3;Global Imports Corp;5;534.62
+1465;Mouse Vintage Azul;Global Imports Corp;5;61.81
+1466;Mochila Inalámbrico Azul;Textiles del Norte;10;45.54
+1467;Licuadora Vintage V2;Hogar y Confort Ltda.;12;50.79
+1468;Cafetera Inalámbrico Silver;TechDistribuidora S.A.;14;146.87
+1469;Mesa Ultra V2;MegaAbasto Co.;25;127.05
+1470;Mochila Pro Azul;Textiles del Norte;10;29.27
+1471;Camiseta Eco Azul;Distribución Express;3;39.15
+1472;Zapatillas Basic Gold;Suministros Industriales Alfa;7;91.62
+1473;Camiseta Modern Gold;TechDistribuidora S.A.;14;41.13
+1474;Camiseta Premium Blanco;TechDistribuidora S.A.;14;37.18
+1475;Termo Ergonómico X1;Suministros Industriales Alfa;7;30.31
+1476;Mesa Ultra Azul;Distribución Express;3;249.92
+1477;Mouse Premium X1;Global Imports Corp;5;43.78
+1478;Camiseta Vintage Z3;Hogar y Confort Ltda.;12;20.67
+1479;Lámpara Basic V2;Global Imports Corp;5;79.85
+1480;Teclado Portátil X1;Comercializadora Omega;20;88.16
+1481;Zapatillas Advanced Blanco;Distribución Express;3;112.98
+1482;Chaqueta Premium Silver;Hogar y Confort Ltda.;12;124.75
+1483;Lámpara Vintage V2;Comercializadora Omega;20;30.8
+1484;Mouse Premium Blanco;Global Imports Corp;5;13.41
+1485;Termo Plus Red;TechDistribuidora S.A.;14;37.6
+1486;Auriculares Vintage Gold;Global Imports Corp;5;102.73
+1487;Televisor Max X1;Suministros Industriales Alfa;7;536.74
+1488;Gorra Plus Silver;MegaAbasto Co.;25;20.2
+1489;Mesa Advanced Negro;MegaAbasto Co.;25;288.82
+1490;Reloj Plus Negro;Comercializadora Omega;20;114.07
+1491;Mouse Ultra Red;Hogar y Confort Ltda.;12;66.35
+1492;Termo Ergonómico Red;Alimentos y Logística del Sur;15;21.81
+1493;Cargador Ultra Silver;Comercializadora Omega;20;28.92
+1494;Laptop Premium X1;TechDistribuidora S.A.;14;1189.79
+1495;Reloj Max Gold;Global Imports Corp;5;163.71
+1496;Zapatillas Vintage Red;Textiles del Norte;10;59.98
+1497;Gorra Premium Blanco;Textiles del Norte;10;12.07
+1498;Silla Max Silver;MegaAbasto Co.;25;161.42
+1499;Lámpara Pro Gold;MegaAbasto Co.;25;33.87
+1500;Teclado Ultra Red;Distribución Express;3;75.69
+1501;Teclado Premium Gris;Suministros Industriales Alfa;7;73.66
+1502;Auriculares Basic Blanco;MegaAbasto Co.;25;46.19
+1503;Monitor Plus Gold;Comercializadora Omega;20;363.22
+1504;Cargador Vintage Gold;Suministros Industriales Alfa;7;21.0
+1505;Lámpara Modern Gold;Global Imports Corp;5;37.51
+1506;Auriculares Pro Gold;Textiles del Norte;10;33.31
+1507;Laptop Basic X1;Soluciones Tecnológicas Nova;8;764.38
+1508;Chaqueta Basic Azul;Suministros Industriales Alfa;7;72.19
+1509;Camiseta Advanced Blanco;TechDistribuidora S.A.;14;16.4
+1510;Licuadora Vintage Silver;TechDistribuidora S.A.;14;112.17
+1511;Licuadora Inalámbrico Silver;MegaAbasto Co.;25;97.17
+1512;Mochila Ultra Negro;Distribución Express;3;75.83
+1513;Reloj Smart Red;Distribución Express;3;149.36
+1514;Teclado Basic Z3;MegaAbasto Co.;25;52.34
+1515;Laptop Portátil V2;Soluciones Tecnológicas Nova;8;1716.2
+1516;Lámpara Inalámbrico Z3;Alimentos y Logística del Sur;15;25.16
+1517;Monitor Pro V2;Distribución Express;3;266.65
+1518;Monitor Portátil Negro;Global Imports Corp;5;420.96
+1519;Televisor Pro V2;Suministros Industriales Alfa;7;407.41
+1520;Auriculares Advanced Red;Distribución Express;3;74.81
+1521;Teclado Ergonómico V2;Distribución Express;3;83.06
+1522;Gorra Smart Blanco;Hogar y Confort Ltda.;12;21.71
+1523;Licuadora Basic Blanco;Hogar y Confort Ltda.;12;44.3
+1524;Cafetera Smart V2;Suministros Industriales Alfa;7;91.03
+1525;Laptop Plus Negro;TechDistribuidora S.A.;14;1545.87
+1526;Mochila Portátil Azul;Hogar y Confort Ltda.;12;57.61
+1527;Mesa Basic Silver;Hogar y Confort Ltda.;12;290.33
+1528;Zapatillas Pro Azul;Alimentos y Logística del Sur;15;88.09
+1529;Laptop Smart Silver;Alimentos y Logística del Sur;15;1432.56
+1530;Lámpara Inalámbrico Gris;Soluciones Tecnológicas Nova;8;64.55
+1531;Camiseta Premium Gris;Alimentos y Logística del Sur;15;41.57
+1532;Silla Eco Gold;MegaAbasto Co.;25;151.8
+1533;Smartphone Ultra Negro;TechDistribuidora S.A.;14;336.17
+1534;Termo Advanced X1;MegaAbasto Co.;25;32.5
+1535;Laptop Vintage Z3;Hogar y Confort Ltda.;12;1088.73
+1536;Reloj Basic Blanco;Hogar y Confort Ltda.;12;155.05
+1537;Lámpara Max Red;Comercializadora Omega;20;74.74
+1538;Mesa Basic Negro;Textiles del Norte;10;220.1
+1539;Auriculares Basic Blanco;MegaAbasto Co.;25;53.58
+1540;Mouse Portátil V2;Comercializadora Omega;20;16.5
+1541;Reloj Modern Z3;TechDistribuidora S.A.;14;219.82
+1542;Cafetera Max V2;Global Imports Corp;5;191.73
+1543;Lámpara Ergonómico Z3;Distribución Express;3;49.41
+1544;Termo Ergonómico V2;Hogar y Confort Ltda.;12;33.45
+1545;Licuadora Advanced Red;Textiles del Norte;10;75.33
+1546;Televisor Vintage X1;Textiles del Norte;10;257.54
+1547;Gorra Plus X1;Global Imports Corp;5;14.48
+1548;Camiseta Eco Gris;Global Imports Corp;5;17.76
+1549;Laptop Ultra X1;Textiles del Norte;10;733.49
+1550;Reloj Pro Gold;Hogar y Confort Ltda.;12;153.19
+1551;Chaqueta Plus V2;Comercializadora Omega;20;69.31
+1552;Mouse Max Red;MegaAbasto Co.;25;56.6
+1553;Camiseta Inalámbrico V2;Hogar y Confort Ltda.;12;18.45
+1554;Chaqueta Smart Negro;Distribución Express;3;179.0
+1555;Cafetera Premium Blanco;MegaAbasto Co.;25;47.06
+1556;Mouse Premium Gris;Comercializadora Omega;20;33.55
+1557;Camiseta Smart Red;Global Imports Corp;5;29.38
+1558;Mochila Basic V2;Distribución Express;3;31.55
+1559;Televisor Vintage Negro;Textiles del Norte;10;528.63
+1560;Laptop Max Azul;Textiles del Norte;10;1035.43
+1561;Smartphone Basic Z3;TechDistribuidora S.A.;14;727.14
+1562;Zapatillas Eco Blanco;Distribución Express;3;80.22
+1563;Licuadora Smart X1;Distribución Express;3;30.16
+1564;Licuadora Max V2;Alimentos y Logística del Sur;15;115.68
+1565;Televisor Inalámbrico Gold;TechDistribuidora S.A.;14;309.6
+1566;Cafetera Plus Gold;TechDistribuidora S.A.;14;187.98
+1567;Silla Plus Gris;Hogar y Confort Ltda.;12;228.63
+1568;Camiseta Smart X1;Alimentos y Logística del Sur;15;26.33
+1569;Licuadora Plus X1;Soluciones Tecnológicas Nova;8;96.78
+1570;Mochila Ultra Blanco;MegaAbasto Co.;25;52.7
+1571;Termo Plus Red;Global Imports Corp;5;12.23
+1572;Reloj Ultra X1;Alimentos y Logística del Sur;15;200.2
+1573;Mesa Inalámbrico Red;Global Imports Corp;5;313.48
+1574;Smartphone Inalámbrico Blanco;Alimentos y Logística del Sur;15;1043.28
+1575;Reloj Max Red;Soluciones Tecnológicas Nova;8;98.18
+1576;Zapatillas Premium Z3;Soluciones Tecnológicas Nova;8;91.43
+1577;Cargador Basic Silver;Comercializadora Omega;20;18.65
+1578;Smartphone Inalámbrico Gold;Distribución Express;3;348.54
+1579;Chaqueta Inalámbrico X1;Suministros Industriales Alfa;7;176.17
+1580;Chaqueta Smart X1;Textiles del Norte;10;103.01
+1581;Termo Modern Red;Distribución Express;3;17.59
+1582;Camiseta Eco Z3;Global Imports Corp;5;33.14
+1583;Mochila Smart Silver;MegaAbasto Co.;25;57.78
+1584;Televisor Plus V2;Global Imports Corp;5;380.01
+1585;Lámpara Inalámbrico Gris;Alimentos y Logística del Sur;15;39.32
+1586;Auriculares Max Negro;Soluciones Tecnológicas Nova;8;123.53
+1587;Auriculares Advanced Red;TechDistribuidora S.A.;14;105.02
+1588;Mesa Advanced Gris;Suministros Industriales Alfa;7;188.77
+1589;Chaqueta Modern Silver;Comercializadora Omega;20;55.32
+1590;Mouse Pro X1;MegaAbasto Co.;25;30.65
+1591;Termo Max Blanco;MegaAbasto Co.;25;35.78
+1592;Zapatillas Modern Gris;Distribución Express;3;96.41
+1593;Teclado Portátil Negro;Hogar y Confort Ltda.;12;71.01
+1594;Auriculares Inalámbrico V2;MegaAbasto Co.;25;55.87
+1595;Monitor Ergonómico X1;Hogar y Confort Ltda.;12;179.77
+1596;Cafetera Portátil Blanco;Textiles del Norte;10;131.32
+1597;Auriculares Max Red;Textiles del Norte;10;92.07
+1598;Televisor Smart Blanco;Soluciones Tecnológicas Nova;8;666.55
+1599;Cargador Inalámbrico Azul;Comercializadora Omega;20;17.69
+1600;Cafetera Ergonómico Red;Alimentos y Logística del Sur;15;108.13
+1601;Teclado Portátil Silver;Soluciones Tecnológicas Nova;8;54.86
+1602;Licuadora Portátil V2;Distribución Express;3;82.99
+1603;Mouse Advanced Negro;Comercializadora Omega;20;19.4
+1604;Monitor Max Z3;Comercializadora Omega;20;432.45
+1605;Laptop Ergonómico Gris;Comercializadora Omega;20;1751.03
+1606;Teclado Pro V2;Suministros Industriales Alfa;7;35.42
+1607;Licuadora Eco Silver;Suministros Industriales Alfa;7;106.21
+1608;Cafetera Smart Z3;MegaAbasto Co.;25;108.71
+1609;Mouse Advanced Azul;Soluciones Tecnológicas Nova;8;42.24
+1610;Mochila Smart Blanco;TechDistribuidora S.A.;14;32.02
+1611;Auriculares Ergonómico Gris;Hogar y Confort Ltda.;12;112.84
+1612;Licuadora Advanced Gris;MegaAbasto Co.;25;55.98
+1613;Termo Basic Blanco;TechDistribuidora S.A.;14;13.99
+1614;Chaqueta Smart Negro;Soluciones Tecnológicas Nova;8;175.78
+1615;Zapatillas Premium V2;Textiles del Norte;10;50.55
+1616;Licuadora Premium V2;Hogar y Confort Ltda.;12;59.12
+1617;Termo Ergonómico V2;TechDistribuidora S.A.;14;28.84
+1618;Gorra Eco Gris;Suministros Industriales Alfa;7;28.76
+1619;Reloj Vintage Negro;MegaAbasto Co.;25;185.6
+1620;Zapatillas Pro Azul;Global Imports Corp;5;118.54
+1621;Televisor Ergonómico X1;Soluciones Tecnológicas Nova;8;898.84
+1622;Lámpara Premium Azul;Textiles del Norte;10;64.54
+1623;Lámpara Ultra Gold;Comercializadora Omega;20;62.02
+1624;Televisor Advanced X1;Comercializadora Omega;20;681.16
+1625;Monitor Smart V2;Comercializadora Omega;20;259.26
+1626;Gorra Inalámbrico Z3;Hogar y Confort Ltda.;12;28.14
+1627;Smartphone Basic V2;Comercializadora Omega;20;734.1
+1628;Televisor Pro Red;Suministros Industriales Alfa;7;613.55
+1629;Chaqueta Premium Gold;Textiles del Norte;10;85.33
+1630;Termo Vintage Red;Textiles del Norte;10;39.2
+1631;Mochila Premium Blanco;Distribución Express;3;38.14
+1632;Laptop Portátil Gold;Comercializadora Omega;20;685.5
+1633;Monitor Pro Negro;Global Imports Corp;5;150.8
+1634;Mouse Basic Gold;Soluciones Tecnológicas Nova;8;56.84
+1635;Televisor Eco Azul;Distribución Express;3;718.56
+1636;Lámpara Premium Z3;Distribución Express;3;62.05
+1637;Termo Vintage Azul;Textiles del Norte;10;20.11
+1638;Televisor Vintage Negro;Textiles del Norte;10;418.26
+1639;Mesa Ultra Gold;Comercializadora Omega;20;382.94
+1640;Auriculares Basic Azul;Textiles del Norte;10;37.8
+1641;Reloj Vintage V2;MegaAbasto Co.;25;284.5
+1642;Chaqueta Plus Negro;Textiles del Norte;10;134.31
+1643;Lámpara Max X1;Distribución Express;3;57.16
+1644;Mochila Basic Blanco;TechDistribuidora S.A.;14;33.9
+1645;Cafetera Pro Blanco;TechDistribuidora S.A.;14;159.66
+1646;Zapatillas Max V2;Global Imports Corp;5;77.5
+1647;Chaqueta Max V2;Distribución Express;3;163.5
+1648;Camiseta Smart Azul;Comercializadora Omega;20;16.69
+1649;Mesa Portátil Silver;Hogar y Confort Ltda.;12;261.33
+1650;Reloj Vintage Negro;Textiles del Norte;10;195.19
+1651;Cafetera Basic Azul;Suministros Industriales Alfa;7;124.28
+1652;Mesa Plus Gold;Comercializadora Omega;20;347.37
+1653;Cafetera Max Negro;TechDistribuidora S.A.;14;177.68
+1654;Mesa Modern Z3;Suministros Industriales Alfa;7;112.28
+1655;Auriculares Plus Silver;Distribución Express;3;76.31
+1656;Silla Inalámbrico V2;Hogar y Confort Ltda.;12;114.15
+1657;Cafetera Smart Red;Hogar y Confort Ltda.;12;196.05
+1658;Televisor Eco Red;MegaAbasto Co.;25;454.81
+1659;Termo Ergonómico Red;Global Imports Corp;5;19.71
+1660;Laptop Smart Azul;MegaAbasto Co.;25;986.63
+1661;Teclado Plus Azul;Comercializadora Omega;20;88.56
+1662;Teclado Advanced V2;Global Imports Corp;5;15.5
+1663;Mochila Vintage Blanco;Textiles del Norte;10;71.84
+1664;Laptop Premium Silver;Global Imports Corp;5;1900.55
+1665;Mouse Pro Gold;MegaAbasto Co.;25;27.63
+1666;Laptop Advanced V2;Hogar y Confort Ltda.;12;1671.78
+1667;Lámpara Ultra Gris;Alimentos y Logística del Sur;15;50.28
+1668;Smartphone Plus Negro;Suministros Industriales Alfa;7;782.5
+1669;Cargador Eco X1;Suministros Industriales Alfa;7;20.46
+1670;Auriculares Portátil X1;Global Imports Corp;5;79.29
+1671;Lámpara Eco Gold;Distribución Express;3;57.2
+1672;Reloj Smart Silver;TechDistribuidora S.A.;14;285.7
+1673;Chaqueta Modern X1;Soluciones Tecnológicas Nova;8;160.51
+1674;Monitor Premium Z3;Textiles del Norte;10;229.38
+1675;Laptop Basic Red;MegaAbasto Co.;25;1179.2
+1676;Teclado Vintage V2;Global Imports Corp;5;88.13
+1677;Cargador Plus Z3;Comercializadora Omega;20;22.35
+1678;Lámpara Smart Gold;Soluciones Tecnológicas Nova;8;71.44
+1679;Gorra Pro Silver;Hogar y Confort Ltda.;12;19.92
+1680;Gorra Advanced Negro;Alimentos y Logística del Sur;15;15.05
+1681;Termo Premium Red;Hogar y Confort Ltda.;12;35.68
+1682;Televisor Portátil Azul;Soluciones Tecnológicas Nova;8;419.19
+1683;Licuadora Vintage X1;Suministros Industriales Alfa;7;95.18
+1684;Teclado Portátil Gold;Alimentos y Logística del Sur;15;80.22
+1685;Silla Eco Azul;Comercializadora Omega;20;153.87
+1686;Termo Pro Silver;TechDistribuidora S.A.;14;37.52
+1687;Smartphone Smart Gris;Soluciones Tecnológicas Nova;8;627.72
+1688;Licuadora Portátil Z3;Global Imports Corp;5;43.39
+1689;Mouse Inalámbrico Blanco;Distribución Express;3;57.59
+1690;Cafetera Basic Red;Soluciones Tecnológicas Nova;8;140.15
+1691;Chaqueta Smart Negro;Comercializadora Omega;20;108.86
+1692;Mochila Basic Gold;Distribución Express;3;39.56
+1693;Zapatillas Vintage Red;MegaAbasto Co.;25;127.97
+1694;Auriculares Modern Azul;Alimentos y Logística del Sur;15;123.67
+1695;Lámpara Ultra X1;Soluciones Tecnológicas Nova;8;49.83
+1696;Laptop Modern Azul;Hogar y Confort Ltda.;12;813.45
+1697;Zapatillas Advanced Gris;Global Imports Corp;5;65.34
+1698;Silla Smart Blanco;Hogar y Confort Ltda.;12;82.28
+1699;Gorra Pro Blanco;TechDistribuidora S.A.;14;29.63
+1700;Cafetera Pro Red;Soluciones Tecnológicas Nova;8;140.76
+1701;Laptop Ergonómico Azul;Distribución Express;3;647.92
+1702;Televisor Smart Gold;Comercializadora Omega;20;840.23
+1703;Cafetera Premium Silver;MegaAbasto Co.;25;132.29
+1704;Zapatillas Pro Azul;MegaAbasto Co.;25;101.81
+1705;Mochila Ultra Gris;TechDistribuidora S.A.;14;76.61
+1706;Termo Max Blanco;Hogar y Confort Ltda.;12;33.43
+1707;Chaqueta Ultra Gris;Suministros Industriales Alfa;7;132.7
+1708;Cargador Smart Blanco;Alimentos y Logística del Sur;15;23.19
+1709;Silla Max Red;Alimentos y Logística del Sur;15;80.95
+1710;Cargador Pro Gris;Suministros Industriales Alfa;7;16.71
+1711;Mochila Ultra Gold;TechDistribuidora S.A.;14;32.99
+1712;Monitor Plus Z3;Soluciones Tecnológicas Nova;8;279.7
+1713;Mouse Pro Azul;Alimentos y Logística del Sur;15;46.74
+1714;Mochila Smart V2;Comercializadora Omega;20;65.95
+1715;Teclado Advanced Red;Soluciones Tecnológicas Nova;8;41.15
+1716;Televisor Portátil X1;Soluciones Tecnológicas Nova;8;665.31
+1717;Smartphone Basic Red;Suministros Industriales Alfa;7;315.34
+1718;Gorra Premium V2;Distribución Express;3;20.77
+1719;Cafetera Basic Gris;Hogar y Confort Ltda.;12;76.33
+1720;Mesa Advanced Z3;Distribución Express;3;110.92
+1721;Monitor Plus Negro;TechDistribuidora S.A.;14;421.22
+1722;Cafetera Premium Gris;Comercializadora Omega;20;96.32
+1723;Smartphone Max Gris;Comercializadora Omega;20;653.27
+1724;Cafetera Plus Blanco;Suministros Industriales Alfa;7;44.49
+1725;Mochila Eco Gold;Alimentos y Logística del Sur;15;61.38
+1726;Auriculares Smart Z3;Soluciones Tecnológicas Nova;8;45.04
+1727;Smartphone Eco Blanco;Distribución Express;3;773.6
+1728;Cafetera Smart Negro;Suministros Industriales Alfa;7;168.8
+1729;Gorra Premium Gold;Distribución Express;3;26.44
+1730;Auriculares Pro Blanco;TechDistribuidora S.A.;14;35.63
+1731;Monitor Pro Z3;Distribución Express;3;435.63
+1732;Lámpara Advanced Gold;Textiles del Norte;10;71.29
+1733;Lámpara Portátil Negro;Comercializadora Omega;20;63.62
+1734;Monitor Basic Red;Hogar y Confort Ltda.;12;315.35
+1735;Termo Basic Blanco;Suministros Industriales Alfa;7;22.99
+1736;Cafetera Modern Z3;Soluciones Tecnológicas Nova;8;187.02
+1737;Silla Basic Z3;TechDistribuidora S.A.;14;241.9
+1738;Termo Basic Gold;Suministros Industriales Alfa;7;33.33
+1739;Camiseta Ultra Silver;Suministros Industriales Alfa;7;45.95
+1740;Chaqueta Portátil Azul;Soluciones Tecnológicas Nova;8;148.2
+1741;Cafetera Portátil X1;Suministros Industriales Alfa;7;171.52
+1742;Zapatillas Max Z3;TechDistribuidora S.A.;14;54.43
+1743;Teclado Advanced Azul;Alimentos y Logística del Sur;15;22.44
+1744;Reloj Eco Red;TechDistribuidora S.A.;14;288.88
+1745;Reloj Pro Gold;TechDistribuidora S.A.;14;207.06
+1746;Silla Smart Z3;Distribución Express;3;107.22
+1747;Licuadora Basic Red;Global Imports Corp;5;80.24
+1748;Cargador Portátil Z3;Soluciones Tecnológicas Nova;8;18.09
+1749;Mesa Eco Red;Textiles del Norte;10;143.17
+1750;Mesa Inalámbrico Gris;MegaAbasto Co.;25;326.7
+1751;Televisor Premium V2;TechDistribuidora S.A.;14;458.3
+1752;Lámpara Plus Red;Global Imports Corp;5;39.97
+1753;Camiseta Ultra Gris;MegaAbasto Co.;25;38.91
+1754;Cargador Smart Negro;Alimentos y Logística del Sur;15;20.75
+1755;Mesa Plus Negro;Suministros Industriales Alfa;7;199.28
+1756;Zapatillas Plus V2;Hogar y Confort Ltda.;12;101.1
+1757;Monitor Ergonómico V2;Hogar y Confort Ltda.;12;276.02
+1758;Cafetera Advanced Z3;Hogar y Confort Ltda.;12;107.41
+1759;Monitor Eco Blanco;Distribución Express;3;166.68
+1760;Auriculares Modern Red;Soluciones Tecnológicas Nova;8;84.52
+1761;Licuadora Ultra V2;Distribución Express;3;41.65
+1762;Chaqueta Eco Silver;Comercializadora Omega;20;169.6
+1763;Reloj Ergonómico Blanco;Textiles del Norte;10;144.02
+1764;Licuadora Advanced Silver;Hogar y Confort Ltda.;12;73.28
+1765;Silla Advanced Gris;Hogar y Confort Ltda.;12;119.1
+1766;Licuadora Vintage Z3;TechDistribuidora S.A.;14;30.54
+1767;Gorra Ergonómico Negro;Textiles del Norte;10;13.93
+1768;Smartphone Smart X1;Alimentos y Logística del Sur;15;919.12
+1769;Zapatillas Inalámbrico Blanco;Suministros Industriales Alfa;7;118.97
+1770;Laptop Premium V2;Hogar y Confort Ltda.;12;648.24
+1771;Smartphone Pro Blanco;Distribución Express;3;1059.83
+1772;Silla Premium Gris;Textiles del Norte;10;202.49
+1773;Monitor Ergonómico V2;Alimentos y Logística del Sur;15;128.33
+1774;Laptop Advanced Azul;Suministros Industriales Alfa;7;893.26
+1775;Mochila Vintage Silver;Distribución Express;3;54.62
+1776;Silla Modern Z3;Global Imports Corp;5;71.72
+1777;Licuadora Inalámbrico X1;Soluciones Tecnológicas Nova;8;68.52
+1778;Laptop Pro Red;Hogar y Confort Ltda.;12;1535.66
+1779;Cafetera Max Z3;Textiles del Norte;10;73.51
+1780;Teclado Basic Red;MegaAbasto Co.;25;78.22
+1781;Mouse Portátil X1;Textiles del Norte;10;61.24
+1782;Silla Ultra Azul;Comercializadora Omega;20;221.02
+1783;Silla Eco Azul;Distribución Express;3;86.75
+1784;Smartphone Max Gold;Global Imports Corp;5;487.4
+1785;Mochila Pro Red;TechDistribuidora S.A.;14;45.81
+1786;Lámpara Premium Gris;Global Imports Corp;5;28.36
+1787;Zapatillas Basic Azul;Comercializadora Omega;20;134.95
+1788;Teclado Basic Blanco;Alimentos y Logística del Sur;15;38.67
+1789;Laptop Advanced Azul;Global Imports Corp;5;1963.88
+1790;Termo Pro Blanco;TechDistribuidora S.A.;14;26.21
+1791;Mouse Basic V2;Global Imports Corp;5;12.76
+1792;Laptop Portátil Silver;Soluciones Tecnológicas Nova;8;698.81
+1793;Termo Portátil Gris;TechDistribuidora S.A.;14;35.12
+1794;Reloj Eco Z3;Suministros Industriales Alfa;7;273.56
+1795;Cafetera Eco Z3;Global Imports Corp;5;185.54
+1796;Laptop Pro X1;Soluciones Tecnológicas Nova;8;1225.2
+1797;Laptop Ergonómico V2;Suministros Industriales Alfa;7;1684.19
+1798;Zapatillas Ultra Azul;Hogar y Confort Ltda.;12;118.27
+1799;Teclado Advanced Z3;Suministros Industriales Alfa;7;61.39
+1800;Cafetera Plus Silver;Comercializadora Omega;20;65.56
+1801;Laptop Smart Azul;Textiles del Norte;10;702.39
+1802;Cafetera Ultra Gris;Alimentos y Logística del Sur;15;165.61
+1803;Mouse Vintage Gris;Hogar y Confort Ltda.;12;23.05
+1804;Reloj Plus Negro;TechDistribuidora S.A.;14;278.08
+1805;Gorra Portátil Blanco;Global Imports Corp;5;23.26
+1806;Lámpara Portátil Negro;Distribución Express;3;32.91
+1807;Silla Vintage Silver;Soluciones Tecnológicas Nova;8;227.1
+1808;Auriculares Basic V2;Distribución Express;3;39.36
+1809;Cafetera Ergonómico V2;Soluciones Tecnológicas Nova;8;83.03
+1810;Mochila Plus Z3;Hogar y Confort Ltda.;12;40.6
+1811;Smartphone Vintage Red;Distribución Express;3;628.88
+1812;Mouse Ultra X1;Distribución Express;3;48.52
+1813;Reloj Modern Azul;Hogar y Confort Ltda.;12;156.71
+1814;Licuadora Plus Silver;MegaAbasto Co.;25;98.99
+1815;Mouse Plus V2;Soluciones Tecnológicas Nova;8;25.18
+1816;Termo Max X1;Distribución Express;3;11.15
+1817;Mesa Inalámbrico Blanco;Alimentos y Logística del Sur;15;297.22
+1818;Zapatillas Inalámbrico Red;Soluciones Tecnológicas Nova;8;128.23
+1819;Mouse Advanced V2;Soluciones Tecnológicas Nova;8;32.44
+1820;Chaqueta Modern Negro;Soluciones Tecnológicas Nova;8;153.63
+1821;Monitor Max Negro;TechDistribuidora S.A.;14;212.88
+1822;Cargador Pro Negro;MegaAbasto Co.;25;33.49
+1823;Chaqueta Max X1;Suministros Industriales Alfa;7;75.12
+1824;Reloj Eco Blanco;Textiles del Norte;10;89.31
+1825;Auriculares Inalámbrico Negro;Comercializadora Omega;20;31.98
+1826;Auriculares Portátil Blanco;MegaAbasto Co.;25;133.37
+1827;Termo Basic Gold;Alimentos y Logística del Sur;15;19.65
+1828;Cafetera Plus V2;TechDistribuidora S.A.;14;170.42
+1829;Termo Pro Red;Soluciones Tecnológicas Nova;8;15.65
+1830;Laptop Modern Silver;Hogar y Confort Ltda.;12;1623.75
+1831;Lámpara Premium Silver;Soluciones Tecnológicas Nova;8;33.36
+1832;Mochila Modern Z3;Distribución Express;3;27.51
+1833;Silla Inalámbrico Silver;MegaAbasto Co.;25;227.33
+1834;Monitor Ergonómico V2;Distribución Express;3;315.53
+1835;Monitor Eco Gris;Global Imports Corp;5;161.54
+1836;Mochila Inalámbrico Azul;Global Imports Corp;5;55.95
+1837;Teclado Advanced Blanco;Textiles del Norte;10;58.39
+1838;Cafetera Vintage Azul;Suministros Industriales Alfa;7;108.39
+1839;Smartphone Portátil X1;Alimentos y Logística del Sur;15;605.65
+1840;Chaqueta Premium Blanco;Alimentos y Logística del Sur;15;131.99
+1841;Mesa Inalámbrico Azul;Soluciones Tecnológicas Nova;8;248.93
+1842;Gorra Inalámbrico Gold;Alimentos y Logística del Sur;15;18.41
+1843;Laptop Portátil Gold;Textiles del Norte;10;1419.79
+1844;Monitor Advanced V2;Alimentos y Logística del Sur;15;181.49
+1845;Laptop Inalámbrico Azul;Distribución Express;3;1971.79
+1846;Chaqueta Advanced Azul;Comercializadora Omega;20;119.55
+1847;Termo Advanced Silver;Textiles del Norte;10;30.91
+1848;Licuadora Portátil Gold;Textiles del Norte;10;60.39
+1849;Camiseta Premium Z3;Comercializadora Omega;20;43.11
+1850;Gorra Portátil Azul;Global Imports Corp;5;19.25
+1851;Televisor Pro Blanco;Alimentos y Logística del Sur;15;308.16
+1852;Cafetera Premium V2;Global Imports Corp;5;61.04
+1853;Mochila Inalámbrico X1;Suministros Industriales Alfa;7;74.11
+1854;Televisor Modern Blanco;Hogar y Confort Ltda.;12;256.77
+1855;Mesa Max Gris;Comercializadora Omega;20;327.02
+1856;Laptop Vintage Blanco;Global Imports Corp;5;1055.16
+1857;Mesa Inalámbrico V2;MegaAbasto Co.;25;117.57
+1858;Cafetera Ergonómico Silver;Comercializadora Omega;20;71.5
+1859;Monitor Eco Silver;MegaAbasto Co.;25;168.01
+1860;Gorra Smart V2;Soluciones Tecnológicas Nova;8;16.41
+1861;Chaqueta Smart Gold;Hogar y Confort Ltda.;12;178.57
+1862;Laptop Modern V2;MegaAbasto Co.;25;1653.98
+1863;Televisor Ergonómico Azul;TechDistribuidora S.A.;14;388.09
+1864;Teclado Premium Silver;Distribución Express;3;28.77
+1865;Gorra Ultra Gris;Textiles del Norte;10;21.12
+1866;Mesa Advanced Red;MegaAbasto Co.;25;167.97
+1867;Silla Max Negro;Soluciones Tecnológicas Nova;8;222.95
+1868;Auriculares Portátil Blanco;Soluciones Tecnológicas Nova;8;70.34
+1869;Reloj Portátil Red;Distribución Express;3;235.34
+1870;Monitor Plus Z3;Textiles del Norte;10;309.65
+1871;Reloj Ultra Gris;Suministros Industriales Alfa;7;208.96
+1872;Auriculares Portátil Gold;MegaAbasto Co.;25;91.49
+1873;Mesa Plus Z3;Comercializadora Omega;20;193.49
+1874;Cafetera Advanced X1;Soluciones Tecnológicas Nova;8;93.84
+1875;Teclado Ergonómico Z3;Distribución Express;3;61.51
+1876;Auriculares Advanced Gris;Textiles del Norte;10;50.67
+1877;Silla Vintage Azul;Distribución Express;3;165.97
+1878;Auriculares Ergonómico Red;Global Imports Corp;5;145.62
+1879;Reloj Ultra Silver;Comercializadora Omega;20;221.27
+1880;Gorra Max Gold;Alimentos y Logística del Sur;15;12.82
+1881;Licuadora Max Gold;TechDistribuidora S.A.;14;51.65
+1882;Monitor Basic Z3;Comercializadora Omega;20;185.57
+1883;Lámpara Ultra X1;Comercializadora Omega;20;76.27
+1884;Monitor Ultra Blanco;Distribución Express;3;145.33
+1885;Licuadora Plus Z3;Global Imports Corp;5;112.41
+1886;Gorra Ultra V2;Soluciones Tecnológicas Nova;8;17.19
+1887;Televisor Pro X1;Textiles del Norte;10;880.64
+1888;Mouse Vintage Negro;Hogar y Confort Ltda.;12;58.46
+1889;Chaqueta Vintage Z3;Distribución Express;3;50.19
+1890;Chaqueta Portátil Silver;Alimentos y Logística del Sur;15;102.77
+1891;Mouse Plus Gris;TechDistribuidora S.A.;14;31.67
+1892;Auriculares Premium Blanco;Soluciones Tecnológicas Nova;8;74.25
+1893;Mesa Vintage Azul;Hogar y Confort Ltda.;12;339.08
+1894;Termo Advanced Z3;TechDistribuidora S.A.;14;21.18
+1895;Silla Ultra V2;Global Imports Corp;5;114.58
+1896;Smartphone Vintage V2;Alimentos y Logística del Sur;15;652.79
+1897;Laptop Inalámbrico Azul;Suministros Industriales Alfa;7;652.35
+1898;Auriculares Ultra Azul;Alimentos y Logística del Sur;15;37.3
+1899;Gorra Eco Gold;Comercializadora Omega;20;25.13
+1900;Smartphone Smart V2;Hogar y Confort Ltda.;12;935.13
+1901;Cargador Advanced Red;MegaAbasto Co.;25;15.05
+1902;Cargador Plus Red;Soluciones Tecnológicas Nova;8;22.01
+1903;Zapatillas Ergonómico Red;Global Imports Corp;5;88.19
+1904;Gorra Inalámbrico Silver;Suministros Industriales Alfa;7;21.46
+1905;Gorra Modern Z3;Alimentos y Logística del Sur;15;26.86
+1906;Reloj Eco Gris;TechDistribuidora S.A.;14;296.45
+1907;Gorra Vintage Red;Alimentos y Logística del Sur;15;13.86
+1908;Reloj Plus Gold;Comercializadora Omega;20;152.44
+1909;Mesa Plus Z3;Comercializadora Omega;20;365.61
+1910;Cargador Modern V2;Suministros Industriales Alfa;7;20.81
+1911;Auriculares Modern Blanco;Alimentos y Logística del Sur;15;118.82
+1912;Televisor Advanced Gold;Comercializadora Omega;20;294.48
+1913;Auriculares Inalámbrico Negro;Textiles del Norte;10;38.73
+1914;Teclado Plus X1;Global Imports Corp;5;40.62
+1915;Camiseta Portátil Azul;Alimentos y Logística del Sur;15;35.85
+1916;Cargador Inalámbrico Gold;Comercializadora Omega;20;12.14
+1917;Monitor Eco Negro;Hogar y Confort Ltda.;12;238.58
+1918;Mouse Pro Blanco;Textiles del Norte;10;27.68
+1919;Termo Max Blanco;Global Imports Corp;5;14.69
+1920;Cafetera Smart Red;Alimentos y Logística del Sur;15;147.08
+1921;Cafetera Portátil Azul;TechDistribuidora S.A.;14;83.16
+1922;Chaqueta Max X1;Soluciones Tecnológicas Nova;8;82.69
+1923;Licuadora Vintage Red;Comercializadora Omega;20;118.16
+1924;Monitor Smart Gris;Alimentos y Logística del Sur;15;152.7
+1925;Laptop Vintage Gold;Comercializadora Omega;20;1071.83
+1926;Monitor Eco Silver;Textiles del Norte;10;421.44
+1927;Termo Plus Azul;Global Imports Corp;5;29.22
+1928;Gorra Smart Z3;Textiles del Norte;10;28.14
+1929;Cargador Ultra Blanco;Global Imports Corp;5;29.11
+1930;Mochila Inalámbrico Gold;TechDistribuidora S.A.;14;26.83
+1931;Laptop Eco X1;Soluciones Tecnológicas Nova;8;718.89
+1932;Laptop Ergonómico Gold;Distribución Express;3;1444.98
+1933;Laptop Modern Gold;Alimentos y Logística del Sur;15;1986.78
+1934;Reloj Premium Negro;MegaAbasto Co.;25;196.03
+1935;Zapatillas Ultra Z3;Soluciones Tecnológicas Nova;8;109.09
+1936;Silla Premium Gold;Hogar y Confort Ltda.;12;216.54
+1937;Smartphone Eco Silver;MegaAbasto Co.;25;435.44
+1938;Cargador Vintage X1;Soluciones Tecnológicas Nova;8;29.37
+1939;Cafetera Advanced X1;Global Imports Corp;5;48.08
+1940;Smartphone Vintage Gold;Distribución Express;3;701.03
+1941;Monitor Pro Negro;MegaAbasto Co.;25;212.97
+1942;Laptop Smart Silver;MegaAbasto Co.;25;634.96
+1943;Cargador Pro Negro;Suministros Industriales Alfa;7;31.86
+1944;Smartphone Modern V2;Textiles del Norte;10;862.68
+1945;Mouse Vintage Negro;MegaAbasto Co.;25;28.53
+1946;Termo Premium V2;Soluciones Tecnológicas Nova;8;12.42
+1947;Mouse Premium V2;Global Imports Corp;5;28.21
+1948;Reloj Inalámbrico Blanco;Comercializadora Omega;20;139.0
+1949;Silla Inalámbrico X1;MegaAbasto Co.;25;189.81
+1950;Gorra Plus Silver;Distribución Express;3;14.48
+1951;Gorra Vintage Silver;Global Imports Corp;5;17.46
+1952;Laptop Vintage X1;Global Imports Corp;5;932.82
+1953;Camiseta Premium Gris;MegaAbasto Co.;25;48.75
+1954;Termo Max Z3;Suministros Industriales Alfa;7;29.15
+1955;Cafetera Modern X1;MegaAbasto Co.;25;129.4
+1956;Monitor Premium Azul;Alimentos y Logística del Sur;15;301.17
+1957;Licuadora Max Silver;Distribución Express;3;103.28
+1958;Camiseta Max Blanco;MegaAbasto Co.;25;44.26
+1959;Zapatillas Premium Red;Comercializadora Omega;20;118.24
+1960;Mochila Max Gris;Soluciones Tecnológicas Nova;8;67.77
+1961;Mochila Pro Negro;Suministros Industriales Alfa;7;55.45
+1962;Zapatillas Advanced Gold;MegaAbasto Co.;25;102.53
+1963;Cargador Smart Gold;Hogar y Confort Ltda.;12;13.14
+1964;Cargador Modern Azul;Soluciones Tecnológicas Nova;8;14.72
+1965;Monitor Eco Gris;Textiles del Norte;10;134.98
+1966;Mochila Inalámbrico Blanco;Distribución Express;3;21.66
+1967;Televisor Modern Silver;Distribución Express;3;782.91
+1968;Silla Modern Gold;Comercializadora Omega;20;151.26
+1969;Camiseta Advanced Gris;Soluciones Tecnológicas Nova;8;41.44
+1970;Auriculares Portátil Silver;Distribución Express;3;141.93
+1971;Termo Eco Negro;Distribución Express;3;20.08
+1972;Televisor Ultra V2;Suministros Industriales Alfa;7;711.03
+1973;Mochila Pro V2;Soluciones Tecnológicas Nova;8;38.43
+1974;Auriculares Max Gris;Textiles del Norte;10;69.5
+1975;Mochila Inalámbrico Blanco;TechDistribuidora S.A.;14;72.65
+1976;Cafetera Portátil Negro;Textiles del Norte;10;147.2
+1977;Auriculares Premium Gris;MegaAbasto Co.;25;89.2
+1978;Laptop Smart Red;Textiles del Norte;10;1549.6
+1979;Zapatillas Basic Silver;Alimentos y Logística del Sur;15;79.74
+1980;Mesa Vintage Gris;Suministros Industriales Alfa;7;292.6
+1981;Mesa Smart Z3;Hogar y Confort Ltda.;12;110.17
+1982;Lámpara Max Gold;Alimentos y Logística del Sur;15;36.63
+1983;Mouse Advanced Negro;TechDistribuidora S.A.;14;35.51
+1984;Cafetera Vintage Negro;Suministros Industriales Alfa;7;131.97
+1985;Reloj Max Red;Soluciones Tecnológicas Nova;8;105.97
+1986;Chaqueta Modern V2;Soluciones Tecnológicas Nova;8;60.56
+1987;Teclado Smart Azul;Hogar y Confort Ltda.;12;39.15
+1988;Auriculares Vintage Blanco;Global Imports Corp;5;52.61
+1989;Chaqueta Eco Gold;MegaAbasto Co.;25;135.95
+1990;Silla Inalámbrico X1;Textiles del Norte;10;145.52
+1991;Cargador Premium Negro;Textiles del Norte;10;19.68
+1992;Chaqueta Modern Negro;Comercializadora Omega;20;114.09
+1993;Camiseta Vintage Azul;Alimentos y Logística del Sur;15;26.66
+1994;Mesa Advanced Red;MegaAbasto Co.;25;174.09
+1995;Laptop Vintage Azul;Textiles del Norte;10;1954.97
+1996;Televisor Ultra X1;Suministros Industriales Alfa;7;440.03
+1997;Lámpara Plus Gold;Textiles del Norte;10;33.33
+1998;Laptop Inalámbrico Azul;Soluciones Tecnológicas Nova;8;1668.02
+1999;Mesa Modern Gold;Textiles del Norte;10;101.11
+2000;Mochila Premium Azul;MegaAbasto Co.;25;55.01
