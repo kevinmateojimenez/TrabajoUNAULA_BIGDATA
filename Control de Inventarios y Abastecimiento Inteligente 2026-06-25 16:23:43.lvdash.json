@@ -1,0 +1,756 @@
+{
+  "datasets": [
+    {
+      "name": "inventario_metricas",
+      "displayName": "Métricas de Inventario y Alertas",
+      "config": {
+        "version": "1.1",
+        "source": "WITH ventas_agregadas AS (\n  SELECT \n    v.id_producto,\n    SUM(v.cantidad_salidas) AS total_salidas,\n    SUM(v.ventas_semestrales_valor) AS ventas_valor,\n    MAX(v.fecha_transaccion) AS ultima_venta\n  FROM bigdataunaula.compras_silver.fact_ventas v\n  GROUP BY v.id_producto\n) SELECT \n  s.id_producto,\n  i.nombre_producto,\n  i.proveedor,\n  i.lead_time_dias,\n  i.precio_unitario,\n  s.stock_disponible,\n  s.ranking_inventario,\n  COALESCE(v.total_salidas, 0) AS total_salidas,\n  COALESCE(v.ventas_valor, 0) AS ventas_valor,\n  v.ultima_venta,\n  CASE \n    WHEN s.stock_disponible <= 0 THEN 'STOCKOUT'\n    WHEN s.stock_disponible / NULLIF((v.total_salidas / 180.0), 0) <= i.lead_time_dias THEN 'CRÍTICO'\n    WHEN s.stock_disponible / NULLIF((v.total_salidas / 180.0), 0) > 90 THEN 'EXCESO'\n    ELSE 'NORMAL'\n  END AS estado_alerta,\n  CASE \n    WHEN s.ranking_inventario <= 20 THEN 'A - Alta Rotación'\n    WHEN s.ranking_inventario <= 50 THEN 'B - Media Rotación'\n    ELSE 'C - Baja Rotación'\n  END AS clasificacion_abc\nFROM bigdataunaula.compras_silver.fact_stock s INNER JOIN bigdataunaula.compras_silver.dim_items i ON s.id_producto = i.id_producto LEFT JOIN ventas_agregadas v ON s.id_producto = v.id_producto\n",
+        "dimensions": [
+          {
+            "name": "id_producto",
+            "expr": "id_producto",
+            "comment": "Identificador único del producto"
+          },
+          {
+            "name": "nombre_producto",
+            "expr": "nombre_producto",
+            "displayName": "Producto",
+            "comment": "Nombre descriptivo del producto"
+          },
+          {
+            "name": "proveedor",
+            "expr": "proveedor",
+            "displayName": "Proveedor",
+            "comment": "Proveedor del producto"
+          },
+          {
+            "name": "estado_alerta",
+            "expr": "estado_alerta",
+            "displayName": "Estado de Alerta",
+            "comment": "Clasificación de urgencia de reabastecimiento (STOCKOUT, CRÍTICO, EXCESO, NORMAL)"
+          },
+          {
+            "name": "clasificacion_abc",
+            "expr": "clasificacion_abc",
+            "displayName": "Clasificación ABC",
+            "comment": "Segmentación de productos por importancia de inventario"
+          },
+          {
+            "name": "lead_time_dias",
+            "expr": "lead_time_dias",
+            "displayName": "Lead Time (días)",
+            "comment": "Días de entrega del proveedor"
+          }
+        ],
+        "measures": [
+          {
+            "displayName": "Stock Disponible",
+            "format": {
+              "type": "number",
+              "decimalPlaces": {
+                "type": "exact",
+                "places": 0.0
+              }
+            },
+            "name": "stock_disponible",
+            "expr": "SUM(stock_disponible)",
+            "comment": "Unidades actuales en inventario"
+          },
+          {
+            "displayName": "Ventas Semestrales",
+            "format": {
+              "type": "currency",
+              "currencyCode": "USD",
+              "decimalPlaces": {
+                "type": "exact",
+                "places": 2.0
+              }
+            },
+            "name": "ventas_semestrales",
+            "expr": "SUM(ventas_valor)",
+            "comment": "Valor de ventas últimos 6 meses"
+          },
+          {
+            "displayName": "Unidades Vendidas",
+            "format": {
+              "type": "number",
+              "decimalPlaces": {
+                "type": "exact",
+                "places": 0.0
+              }
+            },
+            "name": "unidades_vendidas",
+            "expr": "SUM(total_salidas)",
+            "comment": "Cantidad de unidades vendidas en el semestre"
+          },
+          {
+            "displayName": "Cobertura (días)",
+            "format": {
+              "type": "number",
+              "decimalPlaces": {
+                "type": "exact",
+                "places": 1.0
+              }
+            },
+            "name": "cobertura_dias",
+            "expr": "SUM(stock_disponible) / NULLIF(SUM(total_salidas) / 180.0, 0)",
+            "comment": "Días de inventario disponibles al ritmo actual de ventas"
+          },
+          {
+            "displayName": "Valor del Inventario",
+            "format": {
+              "type": "currency",
+              "currencyCode": "USD",
+              "decimalPlaces": {
+                "type": "exact",
+                "places": 2.0
+              }
+            },
+            "name": "valor_inventario",
+            "expr": "SUM(stock_disponible * precio_unitario)",
+            "comment": "Valor monetario del stock actual"
+          },
+          {
+            "displayName": "Valor en Riesgo",
+            "format": {
+              "type": "currency",
+              "currencyCode": "USD",
+              "decimalPlaces": {
+                "type": "exact",
+                "places": 2.0
+              }
+            },
+            "name": "valor_en_riesgo",
+            "expr": "SUM(CASE WHEN estado_alerta IN ('STOCKOUT', 'CRÍTICO') THEN ventas_valor ELSE 0 END)",
+            "comment": "Valor de ventas potencialmente perdidas por falta de stock"
+          },
+          {
+            "displayName": "Productos Críticos",
+            "format": {
+              "type": "number",
+              "decimalPlaces": {
+                "type": "exact",
+                "places": 0.0
+              }
+            },
+            "name": "productos_criticos",
+            "expr": "COUNT(DISTINCT CASE WHEN estado_alerta IN ('STOCKOUT', 'CRÍTICO') THEN id_producto END)",
+            "comment": "Número de productos en stockout o estado crítico"
+          },
+          {
+            "displayName": "Productos con Exceso",
+            "format": {
+              "type": "number",
+              "decimalPlaces": {
+                "type": "exact",
+                "places": 0.0
+              }
+            },
+            "name": "productos_exceso",
+            "expr": "COUNT(DISTINCT CASE WHEN estado_alerta = 'EXCESO' THEN id_producto END)",
+            "comment": "Número de productos con exceso de inventario"
+          },
+          {
+            "displayName": "Punto de Reorden",
+            "format": {
+              "type": "number",
+              "decimalPlaces": {
+                "type": "exact",
+                "places": 0.0
+              }
+            },
+            "name": "punto_reorden",
+            "expr": "AVG((total_salidas / 180.0) * lead_time_dias * 1.5)",
+            "comment": "Nivel óptimo para iniciar reabastecimiento (con margen de seguridad 50%)"
+          }
+        ]
+      }
+    }
+  ],
+  "pages": [
+    {
+      "name": "19d37cc6",
+      "displayName": "default",
+      "layout": [
+        {
+          "widget": {
+            "name": "kpi_productos_criticos",
+            "queries": [
+              {
+                "name": "main_query",
+                "query": {
+                  "datasetName": "inventario_metricas",
+                  "fields": [
+                    {
+                      "name": "measure(productos_criticos)",
+                      "expression": "MEASURE(`productos_criticos`)"
+                    }
+                  ],
+                  "disaggregated": false
+                }
+              }
+            ],
+            "spec": {
+              "version": 2,
+              "frame": {
+                "title": "🚨 Productos Críticos",
+                "showTitle": true
+              },
+              "widgetType": "counter",
+              "encodings": {
+                "value": {
+                  "fieldName": "measure(productos_criticos)"
+                }
+              },
+              "data": {
+                "queryName": "main_query"
+              }
+            }
+          },
+          "position": {
+            "x": 0,
+            "y": 3,
+            "width": 3,
+            "height": 4
+          }
+        },
+        {
+          "widget": {
+            "name": "kpi_valor_riesgo",
+            "queries": [
+              {
+                "name": "main_query",
+                "query": {
+                  "datasetName": "inventario_metricas",
+                  "fields": [
+                    {
+                      "name": "measure(valor_en_riesgo)",
+                      "expression": "MEASURE(`valor_en_riesgo`)"
+                    }
+                  ],
+                  "disaggregated": false
+                }
+              }
+            ],
+            "spec": {
+              "version": 2,
+              "frame": {
+                "title": "💰 Valor en Riesgo",
+                "showTitle": true
+              },
+              "widgetType": "counter",
+              "encodings": {
+                "value": {
+                  "fieldName": "measure(valor_en_riesgo)"
+                }
+              },
+              "data": {
+                "queryName": "main_query"
+              }
+            }
+          },
+          "position": {
+            "x": 3,
+            "y": 3,
+            "width": 3,
+            "height": 4
+          }
+        },
+        {
+          "widget": {
+            "name": "kpi_productos_exceso",
+            "queries": [
+              {
+                "name": "main_query",
+                "query": {
+                  "datasetName": "inventario_metricas",
+                  "fields": [
+                    {
+                      "name": "measure(productos_exceso)",
+                      "expression": "MEASURE(`productos_exceso`)"
+                    }
+                  ],
+                  "disaggregated": false
+                }
+              }
+            ],
+            "spec": {
+              "version": 2,
+              "frame": {
+                "title": "📦 Productos con Exceso",
+                "showTitle": true
+              },
+              "widgetType": "counter",
+              "encodings": {
+                "value": {
+                  "fieldName": "measure(productos_exceso)"
+                }
+              },
+              "data": {
+                "queryName": "main_query"
+              }
+            }
+          },
+          "position": {
+            "x": 6,
+            "y": 3,
+            "width": 3,
+            "height": 4
+          }
+        },
+        {
+          "widget": {
+            "name": "kpi_valor_inventario",
+            "queries": [
+              {
+                "name": "main_query",
+                "query": {
+                  "datasetName": "inventario_metricas",
+                  "fields": [
+                    {
+                      "name": "measure(valor_inventario)",
+                      "expression": "MEASURE(`valor_inventario`)"
+                    }
+                  ],
+                  "disaggregated": false
+                }
+              }
+            ],
+            "spec": {
+              "version": 2,
+              "frame": {
+                "title": "🏭 Valor Total Inventario",
+                "showTitle": true
+              },
+              "widgetType": "counter",
+              "encodings": {
+                "value": {
+                  "fieldName": "measure(valor_inventario)"
+                }
+              },
+              "data": {
+                "queryName": "main_query"
+              }
+            }
+          },
+          "position": {
+            "x": 9,
+            "y": 3,
+            "width": 3,
+            "height": 4
+          }
+        },
+        {
+          "widget": {
+            "name": "tabla_productos_criticos",
+            "queries": [
+              {
+                "name": "main_query",
+                "query": {
+                  "datasetName": "inventario_metricas",
+                  "fields": [
+                    {
+                      "name": "nombre_producto",
+                      "expression": "`nombre_producto`"
+                    },
+                    {
+                      "name": "proveedor",
+                      "expression": "`proveedor`"
+                    },
+                    {
+                      "name": "estado_alerta",
+                      "expression": "`estado_alerta`"
+                    },
+                    {
+                      "name": "measure(stock_disponible)",
+                      "expression": "MEASURE(`stock_disponible`)"
+                    },
+                    {
+                      "name": "measure(cobertura_dias)",
+                      "expression": "MEASURE(`cobertura_dias`)"
+                    },
+                    {
+                      "name": "lead_time_dias",
+                      "expression": "`lead_time_dias`"
+                    },
+                    {
+                      "name": "measure(punto_reorden)",
+                      "expression": "MEASURE(`punto_reorden`)"
+                    },
+                    {
+                      "name": "measure(ventas_semestrales)",
+                      "expression": "MEASURE(`ventas_semestrales`)"
+                    }
+                  ],
+                  "filters": [
+                    {
+                      "expression": "`estado_alerta` IN ('STOCKOUT', 'CRÍTICO')"
+                    }
+                  ],
+                  "disaggregated": false
+                }
+              }
+            ],
+            "spec": {
+              "version": 2,
+              "frame": {
+                "title": "⚠️ Productos en Estado Crítico - Reabastecimiento Urgente",
+                "showTitle": true
+              },
+              "widgetType": "table",
+              "encodings": {
+                "columns": [
+                  {
+                    "fieldName": "nombre_producto",
+                    "useForSearch": true
+                  },
+                  {
+                    "fieldName": "proveedor",
+                    "useForSearch": true
+                  },
+                  {
+                    "fieldName": "estado_alerta"
+                  },
+                  {
+                    "fieldName": "measure(stock_disponible)"
+                  },
+                  {
+                    "fieldName": "measure(cobertura_dias)"
+                  },
+                  {
+                    "fieldName": "lead_time_dias"
+                  },
+                  {
+                    "fieldName": "measure(punto_reorden)"
+                  },
+                  {
+                    "fieldName": "measure(ventas_semestrales)"
+                  }
+                ]
+              },
+              "data": {
+                "queryName": "main_query"
+              }
+            }
+          },
+          "position": {
+            "x": 0,
+            "y": 7,
+            "width": 12,
+            "height": 8
+          }
+        },
+        {
+          "widget": {
+            "name": "grafico_abc",
+            "queries": [
+              {
+                "name": "main_query",
+                "query": {
+                  "datasetName": "inventario_metricas",
+                  "fields": [
+                    {
+                      "name": "clasificacion_abc",
+                      "expression": "`clasificacion_abc`"
+                    },
+                    {
+                      "name": "measure(valor_inventario)",
+                      "expression": "MEASURE(`valor_inventario`)"
+                    }
+                  ],
+                  "disaggregated": false
+                }
+              }
+            ],
+            "spec": {
+              "version": 3,
+              "frame": {
+                "title": "📈 Clasificación ABC de Inventario",
+                "showTitle": true
+              },
+              "widgetType": "bar",
+              "encodings": {
+                "x": {
+                  "fieldName": "clasificacion_abc",
+                  "scale": {
+                    "type": "categorical"
+                  }
+                },
+                "y": {
+                  "fieldName": "measure(valor_inventario)",
+                  "scale": {
+                    "type": "quantitative"
+                  }
+                },
+                "color": {
+                  "fieldName": "clasificacion_abc",
+                  "scale": {
+                    "type": "categorical"
+                  }
+                }
+              },
+              "data": {
+                "queryName": "main_query"
+              }
+            }
+          },
+          "position": {
+            "x": 0,
+            "y": 15,
+            "width": 6,
+            "height": 6
+          }
+        },
+        {
+          "widget": {
+            "name": "ranking_proveedores",
+            "queries": [
+              {
+                "name": "main_query",
+                "query": {
+                  "datasetName": "inventario_metricas",
+                  "fields": [
+                    {
+                      "name": "proveedor",
+                      "expression": "`proveedor`"
+                    },
+                    {
+                      "name": "measure(productos_criticos)",
+                      "expression": "MEASURE(`productos_criticos`)"
+                    },
+                    {
+                      "name": "measure(valor_en_riesgo)",
+                      "expression": "MEASURE(`valor_en_riesgo`)"
+                    },
+                    {
+                      "name": "measure(valor_inventario)",
+                      "expression": "MEASURE(`valor_inventario`)"
+                    },
+                    {
+                      "name": "avg(lead_time_dias)",
+                      "expression": "AVG(`lead_time_dias`)"
+                    }
+                  ],
+                  "disaggregated": false
+                }
+              }
+            ],
+            "spec": {
+              "version": 2,
+              "frame": {
+                "title": "🤝 Ranking de Proveedores - Desempeño",
+                "showTitle": true
+              },
+              "widgetType": "table",
+              "encodings": {
+                "columns": [
+                  {
+                    "fieldName": "proveedor",
+                    "useForSearch": true
+                  },
+                  {
+                    "fieldName": "measure(productos_criticos)"
+                  },
+                  {
+                    "fieldName": "measure(valor_en_riesgo)"
+                  },
+                  {
+                    "fieldName": "measure(valor_inventario)"
+                  },
+                  {
+                    "fieldName": "avg(lead_time_dias)"
+                  }
+                ]
+              },
+              "data": {
+                "queryName": "main_query"
+              }
+            }
+          },
+          "position": {
+            "x": 6,
+            "y": 15,
+            "width": 6,
+            "height": 6
+          }
+        },
+        {
+          "widget": {
+            "name": "tabla_exceso_stock",
+            "queries": [
+              {
+                "name": "main_query",
+                "query": {
+                  "datasetName": "inventario_metricas",
+                  "fields": [
+                    {
+                      "name": "nombre_producto",
+                      "expression": "`nombre_producto`"
+                    },
+                    {
+                      "name": "proveedor",
+                      "expression": "`proveedor`"
+                    },
+                    {
+                      "name": "measure(stock_disponible)",
+                      "expression": "MEASURE(`stock_disponible`)"
+                    },
+                    {
+                      "name": "measure(cobertura_dias)",
+                      "expression": "MEASURE(`cobertura_dias`)"
+                    },
+                    {
+                      "name": "measure(valor_inventario)",
+                      "expression": "MEASURE(`valor_inventario`)"
+                    },
+                    {
+                      "name": "measure(ventas_semestrales)",
+                      "expression": "MEASURE(`ventas_semestrales`)"
+                    }
+                  ],
+                  "filters": [
+                    {
+                      "expression": "`estado_alerta` = 'EXCESO'"
+                    }
+                  ],
+                  "disaggregated": false
+                }
+              }
+            ],
+            "spec": {
+              "version": 2,
+              "frame": {
+                "title": "📦 Productos con Exceso de Stock - Oportunidades de Optimización",
+                "showTitle": true
+              },
+              "widgetType": "table",
+              "encodings": {
+                "columns": [
+                  {
+                    "fieldName": "nombre_producto",
+                    "useForSearch": true
+                  },
+                  {
+                    "fieldName": "proveedor",
+                    "useForSearch": true
+                  },
+                  {
+                    "fieldName": "measure(stock_disponible)"
+                  },
+                  {
+                    "fieldName": "measure(cobertura_dias)"
+                  },
+                  {
+                    "fieldName": "measure(valor_inventario)"
+                  },
+                  {
+                    "fieldName": "measure(ventas_semestrales)"
+                  }
+                ]
+              },
+              "data": {
+                "queryName": "main_query"
+              }
+            }
+          },
+          "position": {
+            "x": 0,
+            "y": 21,
+            "width": 12,
+            "height": 6
+          }
+        },
+        {
+          "widget": {
+            "name": "descripcion_dashboard",
+            "multilineTextboxSpec": {
+              "lines": [
+                "## 🎯 Dashboard de Control de Inventarios y Abastecimiento Inteligente\n",
+                "\n",
+                "Este dashboard proporciona una visión integral para la gestión estratégica de inventarios, diseñado para:\n",
+                "\n",
+                "**🚨 Optimizar Disponibilidad:** Identifica automáticamente los stockouts de productos con alta demanda para mitigar el impacto financiero.\n",
+                "\n",
+                "**🔔 Alertas Proactivas:** Proyecta alertas de compra anticipadas basadas en patrones históricos de venta (cobertura de días vs. lead time).\n",
+                "\n",
+                "**📉 Control de Inventarios:** Clasifica dinámicamente cada producto mediante clasificación ABC y políticas de inventario ideal (punto de reorden).\n",
+                "\n",
+                "**🤝 Ranking de Proveedores:** Evalúa el desempeño de proveedores para negociaciones más estratégicas y optimización de la cadena de suministro.\n",
+                "\n",
+                "**💰 Reducción de Costos:** Minimiza horas-hombre en planeación manual y optimiza costos logísticos al identificar excesos de stock."
+              ]
+            }
+          },
+          "position": {
+            "x": 0,
+            "y": 0,
+            "width": 12,
+            "height": 3
+          }
+        }
+      ],
+      "pageType": "PAGE_TYPE_CANVAS",
+      "layoutVersion": "GRID_V1"
+    }
+  ],
+  "uiSettings": {
+    "theme": {
+      "canvasBackgroundColor": {
+        "light": "#F5F7FA",
+        "dark": "#1A1D23"
+      },
+      "widgetBackgroundColor": {
+        "light": "#FFFFFF",
+        "dark": "#252931"
+      },
+      "fontColor": {
+        "light": "#2C3E50",
+        "dark": "#E8EAED"
+      },
+      "selectionColor": {
+        "light": "#3498DB",
+        "dark": "#5DADE2"
+      },
+      "visualizationColors": [
+        "#3498DB",
+        "#E74C3C",
+        "#2ECC71",
+        "#F39C12",
+        "#9B59B6",
+        "#1ABC9C",
+        "#34495E",
+        "#E67E22",
+        "#95A5A6",
+        "#D35400"
+      ],
+      "widgetHeaderAlignment": "ALIGNMENT_UNSPECIFIED",
+      "fontFamily": "Inter",
+      "widgetPadding": 16,
+      "widgetMargin": 8,
+      "widgetCornerRadius": 8,
+      "widgetShadow": 10,
+      "fontSettings": {
+        "base": {
+          "fontFamily": "Inter",
+          "fontSize": 13,
+          "fontWeight": 400
+        },
+        "widgetTitle": {
+          "fontSize": 15,
+          "fontWeight": 600
+        },
+        "fieldTitle": {
+          "textCase": "TEXT_CASE_UPPERCASE",
+          "fontSize": 12,
+          "fontWeight": 500
+        },
+        "fieldValue": {
+          "fontSize": 14,
+          "fontWeight": 400
+        }
+      }
+    },
+    "applyModeEnabled": false
+  }
+}
